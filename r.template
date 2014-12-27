@@ -1,0 +1,17 @@
+
+{{#datasets}}
+#' {{{name}}} data
+#'
+#' Dataset {{{name}}} from Chapter(s) {{{value}}} of \emph{BPS} 6th ed.
+#'
+#' @name {{{name}}}
+#' @docType data
+#' @usage data("{{{name}}}")
+#' @format \Sexpr[results=rd]{bps6data:::doc_bps6_data("{{{name}}}") }
+#' @references Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.
+#' @source \url{ {{{url}}} }
+NULL
+
+{{/datasets}}
+
+
