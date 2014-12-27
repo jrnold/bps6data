@@ -2,8 +2,9 @@ Package: bps6data
 Type: Package
 Title: Datasets from The Basic Practice of Statistics, 6th ed.
 Version: 1.0.0
-Authors@R: as.person("Jeffrey B. Arnold <jeffrey.arnold@gmail.com> [aut, cre]")
+Authors@R: as.person(c("Jeffrey B. Arnold <jeffrey.arnold@gmail.com> [aut, cre]",
+	   	       "R Core team [ctb] (Some code extracted from promptData.)"))
 Description: Data sets association with the introductory statistics
-  textbook: Moore,
+  textbook: Moore, Notz, and Flinger *The Basic Practice of Statistics*, 6th ed.
 License: GPL-3
 Depends: R (>= 3.0.0)
