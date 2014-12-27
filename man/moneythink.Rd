@@ -12,7 +12,7 @@
 data("moneythink")
 }
 \description{
-Dataset moneythink from Chapter(s) 19 of \emph{BPS} 6th ed.
+Dataset moneythink from \emph{BPS} 6th edition (Chapter(s) 19).
 }
 \references{
 Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.

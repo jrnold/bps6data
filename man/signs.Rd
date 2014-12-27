@@ -12,7 +12,7 @@
 data("signs")
 }
 \description{
-Dataset signs from Chapter(s) 23 of \emph{BPS} 6th ed.
+Dataset signs from \emph{BPS} 6th edition (Chapter(s) 23).
 }
 \references{
 Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.

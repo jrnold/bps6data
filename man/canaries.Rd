@@ -12,7 +12,7 @@
 data("canaries")
 }
 \description{
-Dataset canaries from Chapter(s) 4, 5 of \emph{BPS} 6th ed.
+Dataset canaries from \emph{BPS} 6th edition (Chapter(s) 4, 5).
 }
 \references{
 Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.

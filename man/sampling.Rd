@@ -12,7 +12,7 @@
 data("sampling")
 }
 \description{
-Dataset sampling from Chapter(s) 11 of \emph{BPS} 6th ed.
+Dataset sampling from \emph{BPS} 6th edition (Chapter(s) 11).
 }
 \references{
 Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.

@@ -12,7 +12,7 @@
 data("biomassmeans")
 }
 \description{
-Dataset biomassmeans from Chapter(s) 25 of \emph{BPS} 6th ed.
+Dataset biomassmeans from \emph{BPS} 6th edition (Chapter(s) 25).
 }
 \references{
 Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.

@@ -12,7 +12,7 @@
 data("objectcounts")
 }
 \description{
-Dataset objectcounts from Chapter(s) 29 of \emph{BPS} 6th ed.
+Dataset objectcounts from \emph{BPS} 6th edition (Chapter(s) 29).
 }
 \references{
 Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.

@@ -12,7 +12,7 @@
 data("conductivity")
 }
 \description{
-Dataset conductivity from Chapter(s) 14, 15 of \emph{BPS} 6th ed.
+Dataset conductivity from \emph{BPS} 6th edition (Chapter(s) 14, 15).
 }
 \references{
 Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.

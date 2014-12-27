@@ -12,7 +12,7 @@
 data("obesity")
 }
 \description{
-Dataset obesity from Chapter(s) 2 of \emph{BPS} 6th ed.
+Dataset obesity from \emph{BPS} 6th edition (Chapter(s) 2).
 }
 \references{
 Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.

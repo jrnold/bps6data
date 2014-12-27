@@ -12,7 +12,7 @@
 data("odors3")
 }
 \description{
-Dataset odors3 from Chapter(s) 19 of \emph{BPS} 6th ed.
+Dataset odors3 from \emph{BPS} 6th edition (Chapter(s) 19).
 }
 \references{
 Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.

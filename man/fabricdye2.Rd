@@ -12,7 +12,7 @@
 data("fabricdye2")
 }
 \description{
-Dataset fabricdye2 from Chapter(s) 22 of \emph{BPS} 6th ed.
+Dataset fabricdye2 from \emph{BPS} 6th edition (Chapter(s) 22).
 }
 \references{
 Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.

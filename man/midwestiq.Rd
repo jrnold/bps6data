@@ -12,7 +12,7 @@
 data("midwestiq")
 }
 \description{
-Dataset midwestiq from Chapter(s) 14, 3 of \emph{BPS} 6th ed.
+Dataset midwestiq from \emph{BPS} 6th edition (Chapter(s) 14, 3).
 }
 \references{
 Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.

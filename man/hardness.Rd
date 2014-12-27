@@ -12,7 +12,7 @@
 data("hardness")
 }
 \description{
-Dataset hardness from Chapter(s) 27 of \emph{BPS} 6th ed.
+Dataset hardness from \emph{BPS} 6th edition (Chapter(s) 27).
 }
 \references{
 Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.

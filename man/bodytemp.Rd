@@ -12,7 +12,7 @@
 data("bodytemp")
 }
 \description{
-Dataset bodytemp from Chapter(s) 17 of \emph{BPS} 6th ed.
+Dataset bodytemp from \emph{BPS} 6th edition (Chapter(s) 17).
 }
 \references{
 Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.

@@ -22,14 +22,14 @@ read_data <- function(x) {
 
 save_data <- function(.data, name) {
   assign(name, .data)
-  save(list = name, file = file.path("data", str_c(name, ".rda")))
+  save(list = name, file = file.path("data", str_c(name, ".rda")),
+       compress = "bzip2")
 }
 
 dir.create("data", showWarnings = FALSE)
 dir.create("R", showWarnings = FALSE)
 
 files <- download_unzip(.DATA_URL)
-
 datasets <- list()
 for (fname in files) {
   objname <- make.names(tools::file_path_sans_ext(basename(fname)))
@@ -42,7 +42,15 @@ for (fname in files) {
     save_data(read_data(fname), objname)
   }
 }
-datasets <- sapply(datasets, function(x) paste(sort(x), collapse = ", "))
+datasets <- sapply(datasets, function(x) paste("Chapter(s)", paste(sort(x), collapse = ", ")))
+
+files2 <- grep("\\.dat$", download_unzip(.LARGE_DATA_URL), value = TRUE)
+for (fname in files2) {
+  objname <- make.names(tools::file_path_sans_ext(basename(fname)))
+  chapter <- str_match(fname, "Chapter (\\d+)")[1, 2]
+  datasets[[objname]] <- "Large Data Sets"
+  save_data(read_data(fname), objname)
+}
 
 render_template <- function(src, dst, data = list()) {
   template <- paste(readLines(src), collapse = "\n")

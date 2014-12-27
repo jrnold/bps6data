@@ -12,7 +12,7 @@
 data("schools")
 }
 \description{
-Dataset schools from Chapter(s) 7 of \emph{BPS} 6th ed.
+Dataset schools from \emph{BPS} 6th edition (Chapter(s) 7).
 }
 \references{
 Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.

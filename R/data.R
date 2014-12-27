@@ -1,7 +1,7 @@
 
 #' births data
 #'
-#' Dataset births from Chapter(s) 1 of \emph{BPS} 6th ed.
+#' Dataset births from \emph{BPS} 6th edition (Chapter(s) 1).
 #'
 #' @name births
 #' @docType data
@@ -13,7 +13,7 @@ NULL
 
 #' canadauniv data
 #'
-#' Dataset canadauniv from Chapter(s) 1 of \emph{BPS} 6th ed.
+#' Dataset canadauniv from \emph{BPS} 6th edition (Chapter(s) 1).
 #'
 #' @name canadauniv
 #' @docType data
@@ -25,7 +25,7 @@ NULL
 
 #' carcolor data
 #'
-#' Dataset carcolor from Chapter(s) 1 of \emph{BPS} 6th ed.
+#' Dataset carcolor from \emph{BPS} 6th edition (Chapter(s) 1).
 #'
 #' @name carcolor
 #' @docType data
@@ -37,7 +37,7 @@ NULL
 
 #' co2emissions data
 #'
-#' Dataset co2emissions from Chapter(s) 1, 2 of \emph{BPS} 6th ed.
+#' Dataset co2emissions from \emph{BPS} 6th edition (Chapter(s) 1, 2).
 #'
 #' @name co2emissions
 #' @docType data
@@ -49,7 +49,7 @@ NULL
 
 #' collegecost data
 #'
-#' Dataset collegecost from Chapter(s) 1 of \emph{BPS} 6th ed.
+#' Dataset collegecost from \emph{BPS} 6th edition (Chapter(s) 1).
 #'
 #' @name collegecost
 #' @docType data
@@ -61,7 +61,7 @@ NULL
 
 #' collegepay data
 #'
-#' Dataset collegepay from Chapter(s) 1 of \emph{BPS} 6th ed.
+#' Dataset collegepay from \emph{BPS} 6th edition (Chapter(s) 1).
 #'
 #' @name collegepay
 #' @docType data
@@ -73,7 +73,7 @@ NULL
 
 #' elnino data
 #'
-#' Dataset elnino from Chapter(s) 1 of \emph{BPS} 6th ed.
+#' Dataset elnino from \emph{BPS} 6th edition (Chapter(s) 1).
 #'
 #' @name elnino
 #' @docType data
@@ -85,7 +85,7 @@ NULL
 
 #' facebook data
 #'
-#' Dataset facebook from Chapter(s) 1 of \emph{BPS} 6th ed.
+#' Dataset facebook from \emph{BPS} 6th edition (Chapter(s) 1).
 #'
 #' @name facebook
 #' @docType data
@@ -97,7 +97,7 @@ NULL
 
 #' foodoils data
 #'
-#' Dataset foodoils from Chapter(s) 1 of \emph{BPS} 6th ed.
+#' Dataset foodoils from \emph{BPS} 6th edition (Chapter(s) 1).
 #'
 #' @name foodoils
 #' @docType data
@@ -109,7 +109,7 @@ NULL
 
 #' foreignborn data
 #'
-#' Dataset foreignborn from Chapter(s) 1 of \emph{BPS} 6th ed.
+#' Dataset foreignborn from \emph{BPS} 6th edition (Chapter(s) 1).
 #'
 #' @name foreignborn
 #' @docType data
@@ -121,7 +121,7 @@ NULL
 
 #' furseals data
 #'
-#' Dataset furseals from Chapter(s) 1 of \emph{BPS} 6th ed.
+#' Dataset furseals from \emph{BPS} 6th edition (Chapter(s) 1).
 #'
 #' @name furseals
 #' @docType data
@@ -133,7 +133,7 @@ NULL
 
 #' healthcare data
 #'
-#' Dataset healthcare from Chapter(s) 1, 2 of \emph{BPS} 6th ed.
+#' Dataset healthcare from \emph{BPS} 6th edition (Chapter(s) 1, 2).
 #'
 #' @name healthcare
 #' @docType data
@@ -145,7 +145,7 @@ NULL
 
 #' housestarts data
 #'
-#' Dataset housestarts from Chapter(s) 1 of \emph{BPS} 6th ed.
+#' Dataset housestarts from \emph{BPS} 6th edition (Chapter(s) 1).
 #'
 #' @name housestarts
 #' @docType data
@@ -157,7 +157,7 @@ NULL
 
 #' iowatest data
 #'
-#' Dataset iowatest from Chapter(s) 1 of \emph{BPS} 6th ed.
+#' Dataset iowatest from \emph{BPS} 6th edition (Chapter(s) 1).
 #'
 #' @name iowatest
 #' @docType data
@@ -169,7 +169,7 @@ NULL
 
 #' iqscores data
 #'
-#' Dataset iqscores from Chapter(s) 1 of \emph{BPS} 6th ed.
+#' Dataset iqscores from \emph{BPS} 6th edition (Chapter(s) 1).
 #'
 #' @name iqscores
 #' @docType data
@@ -181,7 +181,7 @@ NULL
 
 #' majors data
 #'
-#' Dataset majors from Chapter(s) 1 of \emph{BPS} 6th ed.
+#' Dataset majors from \emph{BPS} 6th edition (Chapter(s) 1).
 #'
 #' @name majors
 #' @docType data
@@ -193,7 +193,7 @@ NULL
 
 #' nurses data
 #'
-#' Dataset nurses from Chapter(s) 1 of \emph{BPS} 6th ed.
+#' Dataset nurses from \emph{BPS} 6th edition (Chapter(s) 1).
 #'
 #' @name nurses
 #' @docType data
@@ -205,7 +205,7 @@ NULL
 
 #' over65 data
 #'
-#' Dataset over65 from Chapter(s) 1, 2 of \emph{BPS} 6th ed.
+#' Dataset over65 from \emph{BPS} 6th edition (Chapter(s) 1, 2).
 #'
 #' @name over65
 #' @docType data
@@ -217,7 +217,7 @@ NULL
 
 #' ozonehole data
 #'
-#' Dataset ozonehole from Chapter(s) 1 of \emph{BPS} 6th ed.
+#' Dataset ozonehole from \emph{BPS} 6th edition (Chapter(s) 1).
 #'
 #' @name ozonehole
 #' @docType data
@@ -229,7 +229,7 @@ NULL
 
 #' platforms data
 #'
-#' Dataset platforms from Chapter(s) 1 of \emph{BPS} 6th ed.
+#' Dataset platforms from \emph{BPS} 6th edition (Chapter(s) 1).
 #'
 #' @name platforms
 #' @docType data
@@ -241,7 +241,7 @@ NULL
 
 #' radioformat data
 #'
-#' Dataset radioformat from Chapter(s) 1 of \emph{BPS} 6th ed.
+#' Dataset radioformat from \emph{BPS} 6th edition (Chapter(s) 1).
 #'
 #' @name radioformat
 #' @docType data
@@ -253,7 +253,7 @@ NULL
 
 #' sattakers data
 #'
-#' Dataset sattakers from Chapter(s) 1 of \emph{BPS} 6th ed.
+#' Dataset sattakers from \emph{BPS} 6th edition (Chapter(s) 1).
 #'
 #' @name sattakers
 #' @docType data
@@ -265,7 +265,7 @@ NULL
 
 #' stockreturns data
 #'
-#' Dataset stockreturns from Chapter(s) 1 of \emph{BPS} 6th ed.
+#' Dataset stockreturns from \emph{BPS} 6th edition (Chapter(s) 1).
 #'
 #' @name stockreturns
 #' @docType data
@@ -277,7 +277,7 @@ NULL
 
 #' studytimes data
 #'
-#' Dataset studytimes from Chapter(s) 1, 2 of \emph{BPS} 6th ed.
+#' Dataset studytimes from \emph{BPS} 6th edition (Chapter(s) 1, 2).
 #'
 #' @name studytimes
 #' @docType data
@@ -289,7 +289,7 @@ NULL
 
 #' traveltime data
 #'
-#' Dataset traveltime from Chapter(s) 1 of \emph{BPS} 6th ed.
+#' Dataset traveltime from \emph{BPS} 6th edition (Chapter(s) 1).
 #'
 #' @name traveltime
 #' @docType data
@@ -301,7 +301,7 @@ NULL
 
 #' unmarried data
 #'
-#' Dataset unmarried from Chapter(s) 1 of \emph{BPS} 6th ed.
+#' Dataset unmarried from \emph{BPS} 6th edition (Chapter(s) 1).
 #'
 #' @name unmarried
 #' @docType data
@@ -313,7 +313,7 @@ NULL
 
 #' waterlevel data
 #'
-#' Dataset waterlevel from Chapter(s) 1 of \emph{BPS} 6th ed.
+#' Dataset waterlevel from \emph{BPS} 6th edition (Chapter(s) 1).
 #'
 #' @name waterlevel
 #' @docType data
@@ -325,7 +325,7 @@ NULL
 
 #' wood data
 #'
-#' Dataset wood from Chapter(s) 1, 14, 15, 2 of \emph{BPS} 6th ed.
+#' Dataset wood from \emph{BPS} 6th edition (Chapter(s) 1, 14, 15, 2).
 #'
 #' @name wood
 #' @docType data
@@ -337,7 +337,7 @@ NULL
 
 #' sampling data
 #'
-#' Dataset sampling from Chapter(s) 11 of \emph{BPS} 6th ed.
+#' Dataset sampling from \emph{BPS} 6th edition (Chapter(s) 11).
 #'
 #' @name sampling
 #' @docType data
@@ -349,7 +349,7 @@ NULL
 
 #' wine data
 #'
-#' Dataset wine from Chapter(s) 11, 15 of \emph{BPS} 6th ed.
+#' Dataset wine from \emph{BPS} 6th edition (Chapter(s) 11, 15).
 #'
 #' @name wine
 #' @docType data
@@ -361,7 +361,7 @@ NULL
 
 #' boneloss data
 #'
-#' Dataset boneloss from Chapter(s) 14, 15 of \emph{BPS} 6th ed.
+#' Dataset boneloss from \emph{BPS} 6th edition (Chapter(s) 14, 15).
 #'
 #' @name boneloss
 #' @docType data
@@ -373,7 +373,7 @@ NULL
 
 #' conductivity data
 #'
-#' Dataset conductivity from Chapter(s) 14, 15 of \emph{BPS} 6th ed.
+#' Dataset conductivity from \emph{BPS} 6th edition (Chapter(s) 14, 15).
 #'
 #' @name conductivity
 #' @docType data
@@ -385,7 +385,7 @@ NULL
 
 #' midwestiq data
 #'
-#' Dataset midwestiq from Chapter(s) 14, 3 of \emph{BPS} 6th ed.
+#' Dataset midwestiq from \emph{BPS} 6th edition (Chapter(s) 14, 3).
 #'
 #' @name midwestiq
 #' @docType data
@@ -397,7 +397,7 @@ NULL
 
 #' tipping2 data
 #'
-#' Dataset tipping2 from Chapter(s) 14, 18 of \emph{BPS} 6th ed.
+#' Dataset tipping2 from \emph{BPS} 6th edition (Chapter(s) 14, 18).
 #'
 #' @name tipping2
 #' @docType data
@@ -409,7 +409,7 @@ NULL
 
 #' weights data
 #'
-#' Dataset weights from Chapter(s) 14 of \emph{BPS} 6th ed.
+#' Dataset weights from \emph{BPS} 6th edition (Chapter(s) 14).
 #'
 #' @name weights
 #' @docType data
@@ -421,7 +421,7 @@ NULL
 
 #' wine2 data
 #'
-#' Dataset wine2 from Chapter(s) 14 of \emph{BPS} 6th ed.
+#' Dataset wine2 from \emph{BPS} 6th edition (Chapter(s) 14).
 #'
 #' @name wine2
 #' @docType data
@@ -433,7 +433,7 @@ NULL
 
 #' cola data
 #'
-#' Dataset cola from Chapter(s) 15, 18, 26 of \emph{BPS} 6th ed.
+#' Dataset cola from \emph{BPS} 6th edition (Chapter(s) 15, 18, 26).
 #'
 #' @name cola
 #' @docType data
@@ -445,7 +445,7 @@ NULL
 
 #' eyegrease data
 #'
-#' Dataset eyegrease from Chapter(s) 15 of \emph{BPS} 6th ed.
+#' Dataset eyegrease from \emph{BPS} 6th edition (Chapter(s) 15).
 #'
 #' @name eyegrease
 #' @docType data
@@ -457,7 +457,7 @@ NULL
 
 #' tipping3 data
 #'
-#' Dataset tipping3 from Chapter(s) 15, 18 of \emph{BPS} 6th ed.
+#' Dataset tipping3 from \emph{BPS} 6th edition (Chapter(s) 15, 18).
 #'
 #' @name tipping3
 #' @docType data
@@ -469,7 +469,7 @@ NULL
 
 #' randomsample data
 #'
-#' Dataset randomsample from Chapter(s) 16 of \emph{BPS} 6th ed.
+#' Dataset randomsample from \emph{BPS} 6th edition (Chapter(s) 16).
 #'
 #' @name randomsample
 #' @docType data
@@ -481,7 +481,7 @@ NULL
 
 #' wildlifemass data
 #'
-#' Dataset wildlifemass from Chapter(s) 16 of \emph{BPS} 6th ed.
+#' Dataset wildlifemass from \emph{BPS} 6th edition (Chapter(s) 16).
 #'
 #' @name wildlifemass
 #' @docType data
@@ -493,7 +493,7 @@ NULL
 
 #' bodytemp data
 #'
-#' Dataset bodytemp from Chapter(s) 17 of \emph{BPS} 6th ed.
+#' Dataset bodytemp from \emph{BPS} 6th edition (Chapter(s) 17).
 #'
 #' @name bodytemp
 #' @docType data
@@ -505,7 +505,7 @@ NULL
 
 #' restaurant data
 #'
-#' Dataset restaurant from Chapter(s) 17 of \emph{BPS} 6th ed.
+#' Dataset restaurant from \emph{BPS} 6th edition (Chapter(s) 17).
 #'
 #' @name restaurant
 #' @docType data
@@ -517,7 +517,7 @@ NULL
 
 #' ancientair data
 #'
-#' Dataset ancientair from Chapter(s) 18, 26 of \emph{BPS} 6th ed.
+#' Dataset ancientair from \emph{BPS} 6th edition (Chapter(s) 18, 26).
 #'
 #' @name ancientair
 #' @docType data
@@ -529,7 +529,7 @@ NULL
 
 #' brainresponse data
 #'
-#' Dataset brainresponse from Chapter(s) 18, 26 of \emph{BPS} 6th ed.
+#' Dataset brainresponse from \emph{BPS} 6th edition (Chapter(s) 18, 26).
 #'
 #' @name brainresponse
 #' @docType data
@@ -541,7 +541,7 @@ NULL
 
 #' cancertreat data
 #'
-#' Dataset cancertreat from Chapter(s) 18 of \emph{BPS} 6th ed.
+#' Dataset cancertreat from \emph{BPS} 6th edition (Chapter(s) 18).
 #'
 #' @name cancertreat
 #' @docType data
@@ -553,7 +553,7 @@ NULL
 
 #' chimps data
 #'
-#' Dataset chimps from Chapter(s) 18 of \emph{BPS} 6th ed.
+#' Dataset chimps from \emph{BPS} 6th edition (Chapter(s) 18).
 #'
 #' @name chimps
 #' @docType data
@@ -565,7 +565,7 @@ NULL
 
 #' deformity2 data
 #'
-#' Dataset deformity2 from Chapter(s) 18 of \emph{BPS} 6th ed.
+#' Dataset deformity2 from \emph{BPS} 6th edition (Chapter(s) 18).
 #'
 #' @name deformity2
 #' @docType data
@@ -577,7 +577,7 @@ NULL
 
 #' deformity3 data
 #'
-#' Dataset deformity3 from Chapter(s) 18 of \emph{BPS} 6th ed.
+#' Dataset deformity3 from \emph{BPS} 6th edition (Chapter(s) 18).
 #'
 #' @name deformity3
 #' @docType data
@@ -589,7 +589,7 @@ NULL
 
 #' diamonds data
 #'
-#' Dataset diamonds from Chapter(s) 18, 28 of \emph{BPS} 6th ed.
+#' Dataset diamonds from \emph{BPS} 6th edition (Chapter(s) 18, 28).
 #'
 #' @name diamonds
 #' @docType data
@@ -601,7 +601,7 @@ NULL
 
 #' drugs data
 #'
-#' Dataset drugs from Chapter(s) 18 of \emph{BPS} 6th ed.
+#' Dataset drugs from \emph{BPS} 6th edition (Chapter(s) 18).
 #'
 #' @name drugs
 #' @docType data
@@ -613,7 +613,7 @@ NULL
 
 #' ecoli data
 #'
-#' Dataset ecoli from Chapter(s) 18 of \emph{BPS} 6th ed.
+#' Dataset ecoli from \emph{BPS} 6th edition (Chapter(s) 18).
 #'
 #' @name ecoli
 #' @docType data
@@ -625,7 +625,7 @@ NULL
 
 #' emissions data
 #'
-#' Dataset emissions from Chapter(s) 18 of \emph{BPS} 6th ed.
+#' Dataset emissions from \emph{BPS} 6th edition (Chapter(s) 18).
 #'
 #' @name emissions
 #' @docType data
@@ -637,7 +637,7 @@ NULL
 
 #' football data
 #'
-#' Dataset football from Chapter(s) 18 of \emph{BPS} 6th ed.
+#' Dataset football from \emph{BPS} 6th edition (Chapter(s) 18).
 #'
 #' @name football
 #' @docType data
@@ -649,7 +649,7 @@ NULL
 
 #' fungus data
 #'
-#' Dataset fungus from Chapter(s) 18, 26 of \emph{BPS} 6th ed.
+#' Dataset fungus from \emph{BPS} 6th edition (Chapter(s) 18, 26).
 #'
 #' @name fungus
 #' @docType data
@@ -661,7 +661,7 @@ NULL
 
 #' gambling1 data
 #'
-#' Dataset gambling1 from Chapter(s) 18 of \emph{BPS} 6th ed.
+#' Dataset gambling1 from \emph{BPS} 6th edition (Chapter(s) 18).
 #'
 #' @name gambling1
 #' @docType data
@@ -673,7 +673,7 @@ NULL
 
 #' heatconduct data
 #'
-#' Dataset heatconduct from Chapter(s) 18 of \emph{BPS} 6th ed.
+#' Dataset heatconduct from \emph{BPS} 6th edition (Chapter(s) 18).
 #'
 #' @name heatconduct
 #' @docType data
@@ -685,7 +685,7 @@ NULL
 
 #' morecancer data
 #'
-#' Dataset morecancer from Chapter(s) 18, 26 of \emph{BPS} 6th ed.
+#' Dataset morecancer from \emph{BPS} 6th edition (Chapter(s) 18, 26).
 #'
 #' @name morecancer
 #' @docType data
@@ -697,7 +697,7 @@ NULL
 
 #' mutualfund data
 #'
-#' Dataset mutualfund from Chapter(s) 18, 26 of \emph{BPS} 6th ed.
+#' Dataset mutualfund from \emph{BPS} 6th edition (Chapter(s) 18, 26).
 #'
 #' @name mutualfund
 #' @docType data
@@ -709,7 +709,7 @@ NULL
 
 #' newts data
 #'
-#' Dataset newts from Chapter(s) 18, 26 of \emph{BPS} 6th ed.
+#' Dataset newts from \emph{BPS} 6th edition (Chapter(s) 18, 26).
 #'
 #' @name newts
 #' @docType data
@@ -721,7 +721,7 @@ NULL
 
 #' oil data
 #'
-#' Dataset oil from Chapter(s) 18 of \emph{BPS} 6th ed.
+#' Dataset oil from \emph{BPS} 6th edition (Chapter(s) 18).
 #'
 #' @name oil
 #' @docType data
@@ -733,7 +733,7 @@ NULL
 
 #' rightleft data
 #'
-#' Dataset rightleft from Chapter(s) 18 of \emph{BPS} 6th ed.
+#' Dataset rightleft from \emph{BPS} 6th edition (Chapter(s) 18).
 #'
 #' @name rightleft
 #' @docType data
@@ -745,7 +745,7 @@ NULL
 
 #' talking data
 #'
-#' Dataset talking from Chapter(s) 18 of \emph{BPS} 6th ed.
+#' Dataset talking from \emph{BPS} 6th edition (Chapter(s) 18).
 #'
 #' @name talking
 #' @docType data
@@ -757,7 +757,7 @@ NULL
 
 #' tcells data
 #'
-#' Dataset tcells from Chapter(s) 18 of \emph{BPS} 6th ed.
+#' Dataset tcells from \emph{BPS} 6th edition (Chapter(s) 18).
 #'
 #' @name tcells
 #' @docType data
@@ -769,7 +769,7 @@ NULL
 
 #' trees data
 #'
-#' Dataset trees from Chapter(s) 18, 26 of \emph{BPS} 6th ed.
+#' Dataset trees from \emph{BPS} 6th edition (Chapter(s) 18, 26).
 #'
 #' @name trees
 #' @docType data
@@ -781,7 +781,7 @@ NULL
 
 #' waterqual data
 #'
-#' Dataset waterqual from Chapter(s) 18 of \emph{BPS} 6th ed.
+#' Dataset waterqual from \emph{BPS} 6th edition (Chapter(s) 18).
 #'
 #' @name waterqual
 #' @docType data
@@ -793,7 +793,7 @@ NULL
 
 #' weedcontrol data
 #'
-#' Dataset weedcontrol from Chapter(s) 18 of \emph{BPS} 6th ed.
+#' Dataset weedcontrol from \emph{BPS} 6th edition (Chapter(s) 18).
 #'
 #' @name weedcontrol
 #' @docType data
@@ -805,7 +805,7 @@ NULL
 
 #' weeds data
 #'
-#' Dataset weeds from Chapter(s) 18 of \emph{BPS} 6th ed.
+#' Dataset weeds from \emph{BPS} 6th edition (Chapter(s) 18).
 #'
 #' @name weeds
 #' @docType data
@@ -817,7 +817,7 @@ NULL
 
 #' activelearn data
 #'
-#' Dataset activelearn from Chapter(s) 19 of \emph{BPS} 6th ed.
+#' Dataset activelearn from \emph{BPS} 6th edition (Chapter(s) 19).
 #'
 #' @name activelearn
 #' @docType data
@@ -829,7 +829,7 @@ NULL
 
 #' activity data
 #'
-#' Dataset activity from Chapter(s) 19, 26 of \emph{BPS} 6th ed.
+#' Dataset activity from \emph{BPS} 6th edition (Chapter(s) 19, 26).
 #'
 #' @name activity
 #' @docType data
@@ -841,7 +841,7 @@ NULL
 
 #' adolescentobese data
 #'
-#' Dataset adolescentobese from Chapter(s) 19 of \emph{BPS} 6th ed.
+#' Dataset adolescentobese from \emph{BPS} 6th edition (Chapter(s) 19).
 #'
 #' @name adolescentobese
 #' @docType data
@@ -853,7 +853,7 @@ NULL
 
 #' breeding data
 #'
-#' Dataset breeding from Chapter(s) 19, 26 of \emph{BPS} 6th ed.
+#' Dataset breeding from \emph{BPS} 6th edition (Chapter(s) 19, 26).
 #'
 #' @name breeding
 #' @docType data
@@ -865,7 +865,7 @@ NULL
 
 #' drinks data
 #'
-#' Dataset drinks from Chapter(s) 19 of \emph{BPS} 6th ed.
+#' Dataset drinks from \emph{BPS} 6th edition (Chapter(s) 19).
 #'
 #' @name drinks
 #' @docType data
@@ -877,7 +877,7 @@ NULL
 
 #' fabrics data
 #'
-#' Dataset fabrics from Chapter(s) 19, 26 of \emph{BPS} 6th ed.
+#' Dataset fabrics from \emph{BPS} 6th edition (Chapter(s) 19, 26).
 #'
 #' @name fabrics
 #' @docType data
@@ -889,7 +889,7 @@ NULL
 
 #' flowers data
 #'
-#' Dataset flowers from Chapter(s) 19 of \emph{BPS} 6th ed.
+#' Dataset flowers from \emph{BPS} 6th edition (Chapter(s) 19).
 #'
 #' @name flowers
 #' @docType data
@@ -901,7 +901,7 @@ NULL
 
 #' lifeexpectancy data
 #'
-#' Dataset lifeexpectancy from Chapter(s) 19, 26 of \emph{BPS} 6th ed.
+#' Dataset lifeexpectancy from \emph{BPS} 6th edition (Chapter(s) 19, 26).
 #'
 #' @name lifeexpectancy
 #' @docType data
@@ -913,7 +913,7 @@ NULL
 
 #' logging2 data
 #'
-#' Dataset logging2 from Chapter(s) 19 of \emph{BPS} 6th ed.
+#' Dataset logging2 from \emph{BPS} 6th edition (Chapter(s) 19).
 #'
 #' @name logging2
 #' @docType data
@@ -925,7 +925,7 @@ NULL
 
 #' moneythink data
 #'
-#' Dataset moneythink from Chapter(s) 19 of \emph{BPS} 6th ed.
+#' Dataset moneythink from \emph{BPS} 6th edition (Chapter(s) 19).
 #'
 #' @name moneythink
 #' @docType data
@@ -937,7 +937,7 @@ NULL
 
 #' odors2 data
 #'
-#' Dataset odors2 from Chapter(s) 19 of \emph{BPS} 6th ed.
+#' Dataset odors2 from \emph{BPS} 6th edition (Chapter(s) 19).
 #'
 #' @name odors2
 #' @docType data
@@ -949,7 +949,7 @@ NULL
 
 #' odors3 data
 #'
-#' Dataset odors3 from Chapter(s) 19 of \emph{BPS} 6th ed.
+#' Dataset odors3 from \emph{BPS} 6th edition (Chapter(s) 19).
 #'
 #' @name odors3
 #' @docType data
@@ -961,7 +961,7 @@ NULL
 
 #' soilcompress data
 #'
-#' Dataset soilcompress from Chapter(s) 19 of \emph{BPS} 6th ed.
+#' Dataset soilcompress from \emph{BPS} 6th edition (Chapter(s) 19).
 #'
 #' @name soilcompress
 #' @docType data
@@ -973,7 +973,7 @@ NULL
 
 #' soilcompress2 data
 #'
-#' Dataset soilcompress2 from Chapter(s) 19 of \emph{BPS} 6th ed.
+#' Dataset soilcompress2 from \emph{BPS} 6th edition (Chapter(s) 19).
 #'
 #' @name soilcompress2
 #' @docType data
@@ -985,7 +985,7 @@ NULL
 
 #' subliminal data
 #'
-#' Dataset subliminal from Chapter(s) 19, 26 of \emph{BPS} 6th ed.
+#' Dataset subliminal from \emph{BPS} 6th edition (Chapter(s) 19, 26).
 #'
 #' @name subliminal
 #' @docType data
@@ -997,7 +997,7 @@ NULL
 
 #' talking2 data
 #'
-#' Dataset talking2 from Chapter(s) 19 of \emph{BPS} 6th ed.
+#' Dataset talking2 from \emph{BPS} 6th edition (Chapter(s) 19).
 #'
 #' @name talking2
 #' @docType data
@@ -1009,7 +1009,7 @@ NULL
 
 #' tipping4 data
 #'
-#' Dataset tipping4 from Chapter(s) 19 of \emph{BPS} 6th ed.
+#' Dataset tipping4 from \emph{BPS} 6th edition (Chapter(s) 19).
 #'
 #' @name tipping4
 #' @docType data
@@ -1021,7 +1021,7 @@ NULL
 
 #' weedsandcorn data
 #'
-#' Dataset weedsandcorn from Chapter(s) 19 of \emph{BPS} 6th ed.
+#' Dataset weedsandcorn from \emph{BPS} 6th edition (Chapter(s) 19).
 #'
 #' @name weedsandcorn
 #' @docType data
@@ -1033,7 +1033,7 @@ NULL
 
 #' wrinkles data
 #'
-#' Dataset wrinkles from Chapter(s) 19 of \emph{BPS} 6th ed.
+#' Dataset wrinkles from \emph{BPS} 6th edition (Chapter(s) 19).
 #'
 #' @name wrinkles
 #' @docType data
@@ -1045,7 +1045,7 @@ NULL
 
 #' X2datasets data
 #'
-#' Dataset X2datasets from Chapter(s) 2 of \emph{BPS} 6th ed.
+#' Dataset X2datasets from \emph{BPS} 6th edition (Chapter(s) 2).
 #'
 #' @name X2datasets
 #' @docType data
@@ -1057,7 +1057,7 @@ NULL
 
 #' canadaearns data
 #'
-#' Dataset canadaearns from Chapter(s) 2, 3 of \emph{BPS} 6th ed.
+#' Dataset canadaearns from \emph{BPS} 6th edition (Chapter(s) 2, 3).
 #'
 #' @name canadaearns
 #' @docType data
@@ -1069,7 +1069,7 @@ NULL
 
 #' gastricbands data
 #'
-#' Dataset gastricbands from Chapter(s) 2, 26 of \emph{BPS} 6th ed.
+#' Dataset gastricbands from \emph{BPS} 6th edition (Chapter(s) 2, 26).
 #'
 #' @name gastricbands
 #' @docType data
@@ -1081,7 +1081,7 @@ NULL
 
 #' guineapigs data
 #'
-#' Dataset guineapigs from Chapter(s) 2 of \emph{BPS} 6th ed.
+#' Dataset guineapigs from \emph{BPS} 6th edition (Chapter(s) 2).
 #'
 #' @name guineapigs
 #' @docType data
@@ -1093,7 +1093,7 @@ NULL
 
 #' hockeysalaries data
 #'
-#' Dataset hockeysalaries from Chapter(s) 2 of \emph{BPS} 6th ed.
+#' Dataset hockeysalaries from \emph{BPS} 6th edition (Chapter(s) 2).
 #'
 #' @name hockeysalaries
 #' @docType data
@@ -1105,7 +1105,7 @@ NULL
 
 #' logging data
 #'
-#' Dataset logging from Chapter(s) 2 of \emph{BPS} 6th ed.
+#' Dataset logging from \emph{BPS} 6th edition (Chapter(s) 2).
 #'
 #' @name logging
 #' @docType data
@@ -1117,7 +1117,7 @@ NULL
 
 #' midsizecars data
 #'
-#' Dataset midsizecars from Chapter(s) 2 of \emph{BPS} 6th ed.
+#' Dataset midsizecars from \emph{BPS} 6th edition (Chapter(s) 2).
 #'
 #' @name midsizecars
 #' @docType data
@@ -1129,7 +1129,7 @@ NULL
 
 #' nctraveltime data
 #'
-#' Dataset nctraveltime from Chapter(s) 2 of \emph{BPS} 6th ed.
+#' Dataset nctraveltime from \emph{BPS} 6th edition (Chapter(s) 2).
 #'
 #' @name nctraveltime
 #' @docType data
@@ -1141,7 +1141,7 @@ NULL
 
 #' nytraveltime data
 #'
-#' Dataset nytraveltime from Chapter(s) 2 of \emph{BPS} 6th ed.
+#' Dataset nytraveltime from \emph{BPS} 6th edition (Chapter(s) 2).
 #'
 #' @name nytraveltime
 #' @docType data
@@ -1153,7 +1153,7 @@ NULL
 
 #' obesity data
 #'
-#' Dataset obesity from Chapter(s) 2 of \emph{BPS} 6th ed.
+#' Dataset obesity from \emph{BPS} 6th edition (Chapter(s) 2).
 #'
 #' @name obesity
 #' @docType data
@@ -1165,7 +1165,7 @@ NULL
 
 #' odors data
 #'
-#' Dataset odors from Chapter(s) 2 of \emph{BPS} 6th ed.
+#' Dataset odors from \emph{BPS} 6th edition (Chapter(s) 2).
 #'
 #' @name odors
 #' @docType data
@@ -1177,7 +1177,7 @@ NULL
 
 #' satcr data
 #'
-#' Dataset satcr from Chapter(s) 2, 3 of \emph{BPS} 6th ed.
+#' Dataset satcr from \emph{BPS} 6th edition (Large Data Sets).
 #'
 #' @name satcr
 #' @docType data
@@ -1189,7 +1189,7 @@ NULL
 
 #' scofflaws data
 #'
-#' Dataset scofflaws from Chapter(s) 2 of \emph{BPS} 6th ed.
+#' Dataset scofflaws from \emph{BPS} 6th edition (Chapter(s) 2).
 #'
 #' @name scofflaws
 #' @docType data
@@ -1201,7 +1201,7 @@ NULL
 
 #' steelers data
 #'
-#' Dataset steelers from Chapter(s) 2 of \emph{BPS} 6th ed.
+#' Dataset steelers from \emph{BPS} 6th edition (Chapter(s) 2).
 #'
 #' @name steelers
 #' @docType data
@@ -1213,7 +1213,7 @@ NULL
 
 #' swimtimes data
 #'
-#' Dataset swimtimes from Chapter(s) 2 of \emph{BPS} 6th ed.
+#' Dataset swimtimes from \emph{BPS} 6th edition (Chapter(s) 2).
 #'
 #' @name swimtimes
 #' @docType data
@@ -1225,7 +1225,7 @@ NULL
 
 #' tipping data
 #'
-#' Dataset tipping from Chapter(s) 2, 25, 26, 29, 4 of \emph{BPS} 6th ed.
+#' Dataset tipping from \emph{BPS} 6th edition (Chapter(s) 2, 25, 26, 29, 4).
 #'
 #' @name tipping
 #' @docType data
@@ -1237,7 +1237,7 @@ NULL
 
 #' tropicalflower data
 #'
-#' Dataset tropicalflower from Chapter(s) 2 of \emph{BPS} 6th ed.
+#' Dataset tropicalflower from \emph{BPS} 6th edition (Chapter(s) 2).
 #'
 #' @name tropicalflower
 #' @docType data
@@ -1249,7 +1249,7 @@ NULL
 
 #' wilshire5000 data
 #'
-#' Dataset wilshire5000 from Chapter(s) 2 of \emph{BPS} 6th ed.
+#' Dataset wilshire5000 from \emph{BPS} 6th edition (Chapter(s) 2).
 #'
 #' @name wilshire5000
 #' @docType data
@@ -1261,7 +1261,7 @@ NULL
 
 #' fabricdye data
 #'
-#' Dataset fabricdye from Chapter(s) 22 of \emph{BPS} 6th ed.
+#' Dataset fabricdye from \emph{BPS} 6th edition (Chapter(s) 22).
 #'
 #' @name fabricdye
 #' @docType data
@@ -1273,7 +1273,7 @@ NULL
 
 #' fabricdye2 data
 #'
-#' Dataset fabricdye2 from Chapter(s) 22 of \emph{BPS} 6th ed.
+#' Dataset fabricdye2 from \emph{BPS} 6th edition (Chapter(s) 22).
 #'
 #' @name fabricdye2
 #' @docType data
@@ -1285,7 +1285,7 @@ NULL
 
 #' femalesdrink data
 #'
-#' Dataset femalesdrink from Chapter(s) 22 of \emph{BPS} 6th ed.
+#' Dataset femalesdrink from \emph{BPS} 6th edition (Chapter(s) 22).
 #'
 #' @name femalesdrink
 #' @docType data
@@ -1297,7 +1297,7 @@ NULL
 
 #' fertilizing data
 #'
-#' Dataset fertilizing from Chapter(s) 22 of \emph{BPS} 6th ed.
+#' Dataset fertilizing from \emph{BPS} 6th edition (Chapter(s) 22).
 #'
 #' @name fertilizing
 #' @docType data
@@ -1309,7 +1309,7 @@ NULL
 
 #' firstword data
 #'
-#' Dataset firstword from Chapter(s) 22 of \emph{BPS} 6th ed.
+#' Dataset firstword from \emph{BPS} 6th edition (Chapter(s) 22).
 #'
 #' @name firstword
 #' @docType data
@@ -1321,7 +1321,7 @@ NULL
 
 #' mice data
 #'
-#' Dataset mice from Chapter(s) 22 of \emph{BPS} 6th ed.
+#' Dataset mice from \emph{BPS} 6th edition (Chapter(s) 22).
 #'
 #' @name mice
 #' @docType data
@@ -1333,7 +1333,7 @@ NULL
 
 #' tanana data
 #'
-#' Dataset tanana from Chapter(s) 22, 7 of \emph{BPS} 6th ed.
+#' Dataset tanana from \emph{BPS} 6th edition (Chapter(s) 22, 7).
 #'
 #' @name tanana
 #' @docType data
@@ -1345,7 +1345,7 @@ NULL
 
 #' astrology data
 #'
-#' Dataset astrology from Chapter(s) 23, 6 of \emph{BPS} 6th ed.
+#' Dataset astrology from \emph{BPS} 6th edition (Chapter(s) 23, 6).
 #'
 #' @name astrology
 #' @docType data
@@ -1357,7 +1357,7 @@ NULL
 
 #' bariatric data
 #'
-#' Dataset bariatric from Chapter(s) 23, 6 of \emph{BPS} 6th ed.
+#' Dataset bariatric from \emph{BPS} 6th edition (Chapter(s) 23, 6).
 #'
 #' @name bariatric
 #' @docType data
@@ -1369,7 +1369,7 @@ NULL
 
 #' birthday140 data
 #'
-#' Dataset birthday140 from Chapter(s) 23 of \emph{BPS} 6th ed.
+#' Dataset birthday140 from \emph{BPS} 6th edition (Chapter(s) 23).
 #'
 #' @name birthday140
 #' @docType data
@@ -1381,7 +1381,7 @@ NULL
 
 #' birthdays700 data
 #'
-#' Dataset birthdays700 from Chapter(s) 23 of \emph{BPS} 6th ed.
+#' Dataset birthdays700 from \emph{BPS} 6th edition (Chapter(s) 23).
 #'
 #' @name birthdays700
 #' @docType data
@@ -1393,7 +1393,7 @@ NULL
 
 #' cellage data
 #'
-#' Dataset cellage from Chapter(s) 23 of \emph{BPS} 6th ed.
+#' Dataset cellage from \emph{BPS} 6th edition (Chapter(s) 23).
 #'
 #' @name cellage
 #' @docType data
@@ -1405,7 +1405,7 @@ NULL
 
 #' cellpolitics data
 #'
-#' Dataset cellpolitics from Chapter(s) 23 of \emph{BPS} 6th ed.
+#' Dataset cellpolitics from \emph{BPS} 6th edition (Chapter(s) 23).
 #'
 #' @name cellpolitics
 #' @docType data
@@ -1417,7 +1417,7 @@ NULL
 
 #' condomuse data
 #'
-#' Dataset condomuse from Chapter(s) 23 of \emph{BPS} 6th ed.
+#' Dataset condomuse from \emph{BPS} 6th edition (Chapter(s) 23).
 #'
 #' @name condomuse
 #' @docType data
@@ -1429,7 +1429,7 @@ NULL
 
 #' facebookuse data
 #'
-#' Dataset facebookuse from Chapter(s) 23 of \emph{BPS} 6th ed.
+#' Dataset facebookuse from \emph{BPS} 6th edition (Chapter(s) 23).
 #'
 #' @name facebookuse
 #' @docType data
@@ -1441,7 +1441,7 @@ NULL
 
 #' facebookusers data
 #'
-#' Dataset facebookusers from Chapter(s) 23 of \emph{BPS} 6th ed.
+#' Dataset facebookusers from \emph{BPS} 6th edition (Chapter(s) 23).
 #'
 #' @name facebookusers
 #' @docType data
@@ -1453,7 +1453,7 @@ NULL
 
 #' gaming data
 #'
-#' Dataset gaming from Chapter(s) 23, 6 of \emph{BPS} 6th ed.
+#' Dataset gaming from \emph{BPS} 6th edition (Chapter(s) 23, 6).
 #'
 #' @name gaming
 #' @docType data
@@ -1465,7 +1465,7 @@ NULL
 
 #' hiddentoy data
 #'
-#' Dataset hiddentoy from Chapter(s) 23 of \emph{BPS} 6th ed.
+#' Dataset hiddentoy from \emph{BPS} 6th edition (Chapter(s) 23).
 #'
 #' @name hiddentoy
 #' @docType data
@@ -1477,7 +1477,7 @@ NULL
 
 #' highschools data
 #'
-#' Dataset highschools from Chapter(s) 23 of \emph{BPS} 6th ed.
+#' Dataset highschools from \emph{BPS} 6th edition (Chapter(s) 23).
 #'
 #' @name highschools
 #' @docType data
@@ -1489,7 +1489,7 @@ NULL
 
 #' laundry data
 #'
-#' Dataset laundry from Chapter(s) 23 of \emph{BPS} 6th ed.
+#' Dataset laundry from \emph{BPS} 6th edition (Chapter(s) 23).
 #'
 #' @name laundry
 #' @docType data
@@ -1501,7 +1501,7 @@ NULL
 
 #' polpartycombine data
 #'
-#' Dataset polpartycombine from Chapter(s) 23 of \emph{BPS} 6th ed.
+#' Dataset polpartycombine from \emph{BPS} 6th edition (Chapter(s) 23).
 #'
 #' @name polpartycombine
 #' @docType data
@@ -1513,7 +1513,7 @@ NULL
 
 #' polpartyfull data
 #'
-#' Dataset polpartyfull from Chapter(s) 23 of \emph{BPS} 6th ed.
+#' Dataset polpartyfull from \emph{BPS} 6th edition (Chapter(s) 23).
 #'
 #' @name polpartyfull
 #' @docType data
@@ -1525,7 +1525,7 @@ NULL
 
 #' recycling data
 #'
-#' Dataset recycling from Chapter(s) 23 of \emph{BPS} 6th ed.
+#' Dataset recycling from \emph{BPS} 6th edition (Chapter(s) 23).
 #'
 #' @name recycling
 #' @docType data
@@ -1537,7 +1537,7 @@ NULL
 
 #' richby30 data
 #'
-#' Dataset richby30 from Chapter(s) 23 of \emph{BPS} 6th ed.
+#' Dataset richby30 from \emph{BPS} 6th edition (Chapter(s) 23).
 #'
 #' @name richby30
 #' @docType data
@@ -1549,7 +1549,7 @@ NULL
 
 #' services data
 #'
-#' Dataset services from Chapter(s) 23 of \emph{BPS} 6th ed.
+#' Dataset services from \emph{BPS} 6th edition (Chapter(s) 23).
 #'
 #' @name services
 #' @docType data
@@ -1561,7 +1561,7 @@ NULL
 
 #' sexyads data
 #'
-#' Dataset sexyads from Chapter(s) 23 of \emph{BPS} 6th ed.
+#' Dataset sexyads from \emph{BPS} 6th edition (Chapter(s) 23).
 #'
 #' @name sexyads
 #' @docType data
@@ -1573,7 +1573,7 @@ NULL
 
 #' signs data
 #'
-#' Dataset signs from Chapter(s) 23 of \emph{BPS} 6th ed.
+#' Dataset signs from \emph{BPS} 6th edition (Chapter(s) 23).
 #'
 #' @name signs
 #' @docType data
@@ -1585,7 +1585,7 @@ NULL
 
 #' smokecess data
 #'
-#' Dataset smokecess from Chapter(s) 23, 6 of \emph{BPS} 6th ed.
+#' Dataset smokecess from \emph{BPS} 6th edition (Chapter(s) 23, 6).
 #'
 #' @name smokecess
 #' @docType data
@@ -1597,7 +1597,7 @@ NULL
 
 #' smokerrating data
 #'
-#' Dataset smokerrating from Chapter(s) 23, 6 of \emph{BPS} 6th ed.
+#' Dataset smokerrating from \emph{BPS} 6th edition (Chapter(s) 23, 6).
 #'
 #' @name smokerrating
 #' @docType data
@@ -1609,7 +1609,7 @@ NULL
 
 #' weightlifting data
 #'
-#' Dataset weightlifting from Chapter(s) 23, 6 of \emph{BPS} 6th ed.
+#' Dataset weightlifting from \emph{BPS} 6th edition (Chapter(s) 23, 6).
 #'
 #' @name weightlifting
 #' @docType data
@@ -1621,7 +1621,7 @@ NULL
 
 #' wherelive data
 #'
-#' Dataset wherelive from Chapter(s) 23 of \emph{BPS} 6th ed.
+#' Dataset wherelive from \emph{BPS} 6th edition (Chapter(s) 23).
 #'
 #' @name wherelive
 #' @docType data
@@ -1633,7 +1633,7 @@ NULL
 
 #' aluminumres data
 #'
-#' Dataset aluminumres from Chapter(s) 24 of \emph{BPS} 6th ed.
+#' Dataset aluminumres from \emph{BPS} 6th edition (Chapter(s) 24).
 #'
 #' @name aluminumres
 #' @docType data
@@ -1645,7 +1645,7 @@ NULL
 
 #' anglerfish data
 #'
-#' Dataset anglerfish from Chapter(s) 24 of \emph{BPS} 6th ed.
+#' Dataset anglerfish from \emph{BPS} 6th edition (Chapter(s) 24).
 #'
 #' @name anglerfish
 #' @docType data
@@ -1657,7 +1657,7 @@ NULL
 
 #' arctic data
 #'
-#' Dataset arctic from Chapter(s) 24, 5 of \emph{BPS} 6th ed.
+#' Dataset arctic from \emph{BPS} 6th edition (Chapter(s) 24, 5).
 #'
 #' @name arctic
 #' @docType data
@@ -1669,7 +1669,7 @@ NULL
 
 #' beavers data
 #'
-#' Dataset beavers from Chapter(s) 24, 5 of \emph{BPS} 6th ed.
+#' Dataset beavers from \emph{BPS} 6th edition (Chapter(s) 24, 5).
 #'
 #' @name beavers
 #' @docType data
@@ -1681,7 +1681,7 @@ NULL
 
 #' beers data
 #'
-#' Dataset beers from Chapter(s) 24 of \emph{BPS} 6th ed.
+#' Dataset beers from \emph{BPS} 6th edition (Chapter(s) 24).
 #'
 #' @name beers
 #' @docType data
@@ -1693,7 +1693,7 @@ NULL
 
 #' condores data
 #'
-#' Dataset condores from Chapter(s) 24 of \emph{BPS} 6th ed.
+#' Dataset condores from \emph{BPS} 6th edition (Chapter(s) 24).
 #'
 #' @name condores
 #' @docType data
@@ -1705,7 +1705,7 @@ NULL
 
 #' coral data
 #'
-#' Dataset coral from Chapter(s) 24, 4, 5 of \emph{BPS} 6th ed.
+#' Dataset coral from \emph{BPS} 6th edition (Chapter(s) 24, 4, 5).
 #'
 #' @name coral
 #' @docType data
@@ -1717,7 +1717,7 @@ NULL
 
 #' coralres data
 #'
-#' Dataset coralres from Chapter(s) 24 of \emph{BPS} 6th ed.
+#' Dataset coralres from \emph{BPS} 6th edition (Chapter(s) 24).
 #'
 #' @name coralres
 #' @docType data
@@ -1729,7 +1729,7 @@ NULL
 
 #' crying data
 #'
-#' Dataset crying from Chapter(s) 24 of \emph{BPS} 6th ed.
+#' Dataset crying from \emph{BPS} 6th edition (Chapter(s) 24).
 #'
 #' @name crying
 #' @docType data
@@ -1741,7 +1741,7 @@ NULL
 
 #' cryingres data
 #'
-#' Dataset cryingres from Chapter(s) 24 of \emph{BPS} 6th ed.
+#' Dataset cryingres from \emph{BPS} 6th edition (Chapter(s) 24).
 #'
 #' @name cryingres
 #' @docType data
@@ -1753,7 +1753,7 @@ NULL
 
 #' deformity data
 #'
-#' Dataset deformity from Chapter(s) 24, 7 of \emph{BPS} 6th ed.
+#' Dataset deformity from \emph{BPS} 6th edition (Chapter(s) 24, 7).
 #'
 #' @name deformity
 #' @docType data
@@ -1765,7 +1765,7 @@ NULL
 
 #' dna data
 #'
-#' Dataset dna from Chapter(s) 24 of \emph{BPS} 6th ed.
+#' Dataset dna from \emph{BPS} 6th edition (Chapter(s) 24).
 #'
 #' @name dna
 #' @docType data
@@ -1777,7 +1777,7 @@ NULL
 
 #' fastdrive data
 #'
-#' Dataset fastdrive from Chapter(s) 24, 4 of \emph{BPS} 6th ed.
+#' Dataset fastdrive from \emph{BPS} 6th edition (Chapter(s) 24, 4).
 #'
 #' @name fastdrive
 #' @docType data
@@ -1789,7 +1789,7 @@ NULL
 
 #' fatgain data
 #'
-#' Dataset fatgain from Chapter(s) 24, 5 of \emph{BPS} 6th ed.
+#' Dataset fatgain from \emph{BPS} 6th edition (Chapter(s) 24, 5).
 #'
 #' @name fatgain
 #' @docType data
@@ -1801,7 +1801,7 @@ NULL
 
 #' graymatter data
 #'
-#' Dataset graymatter from Chapter(s) 24 of \emph{BPS} 6th ed.
+#' Dataset graymatter from \emph{BPS} 6th edition (Chapter(s) 24).
 #'
 #' @name graymatter
 #' @docType data
@@ -1813,7 +1813,7 @@ NULL
 
 #' graymatterres data
 #'
-#' Dataset graymatterres from Chapter(s) 24 of \emph{BPS} 6th ed.
+#' Dataset graymatterres from \emph{BPS} 6th edition (Chapter(s) 24).
 #'
 #' @name graymatterres
 #' @docType data
@@ -1825,7 +1825,7 @@ NULL
 
 #' losses data
 #'
-#' Dataset losses from Chapter(s) 24, 4, 5 of \emph{BPS} 6th ed.
+#' Dataset losses from \emph{BPS} 6th edition (Chapter(s) 24, 4, 5).
 #'
 #' @name losses
 #' @docType data
@@ -1837,7 +1837,7 @@ NULL
 
 #' manateesres data
 #'
-#' Dataset manateesres from Chapter(s) 24 of \emph{BPS} 6th ed.
+#' Dataset manateesres from \emph{BPS} 6th edition (Chapter(s) 24).
 #'
 #' @name manateesres
 #' @docType data
@@ -1849,7 +1849,7 @@ NULL
 
 #' rejection data
 #'
-#' Dataset rejection from Chapter(s) 24, 4, 5 of \emph{BPS} 6th ed.
+#' Dataset rejection from \emph{BPS} 6th edition (Chapter(s) 24, 4, 5).
 #'
 #' @name rejection
 #' @docType data
@@ -1861,7 +1861,7 @@ NULL
 
 #' squirrels data
 #'
-#' Dataset squirrels from Chapter(s) 24, 7 of \emph{BPS} 6th ed.
+#' Dataset squirrels from \emph{BPS} 6th edition (Chapter(s) 24, 7).
 #'
 #' @name squirrels
 #' @docType data
@@ -1873,7 +1873,7 @@ NULL
 
 #' storms2 data
 #'
-#' Dataset storms2 from Chapter(s) 24, 5 of \emph{BPS} 6th ed.
+#' Dataset storms2 from \emph{BPS} 6th edition (Chapter(s) 24, 5).
 #'
 #' @name storms2
 #' @docType data
@@ -1885,7 +1885,7 @@ NULL
 
 #' sulfur data
 #'
-#' Dataset sulfur from Chapter(s) 24, 4 of \emph{BPS} 6th ed.
+#' Dataset sulfur from \emph{BPS} 6th edition (Chapter(s) 24, 4).
 #'
 #' @name sulfur
 #' @docType data
@@ -1897,7 +1897,7 @@ NULL
 
 #' timeattable data
 #'
-#' Dataset timeattable from Chapter(s) 24 of \emph{BPS} 6th ed.
+#' Dataset timeattable from \emph{BPS} 6th edition (Chapter(s) 24).
 #'
 #' @name timeattable
 #' @docType data
@@ -1909,7 +1909,7 @@ NULL
 
 #' winecancer data
 #'
-#' Dataset winecancer from Chapter(s) 24 of \emph{BPS} 6th ed.
+#' Dataset winecancer from \emph{BPS} 6th edition (Chapter(s) 24).
 #'
 #' @name winecancer
 #' @docType data
@@ -1921,7 +1921,7 @@ NULL
 
 #' biomass2003 data
 #'
-#' Dataset biomass2003 from Chapter(s) 25 of \emph{BPS} 6th ed.
+#' Dataset biomass2003 from \emph{BPS} 6th edition (Chapter(s) 25).
 #'
 #' @name biomass2003
 #' @docType data
@@ -1933,7 +1933,7 @@ NULL
 
 #' biomassall data
 #'
-#' Dataset biomassall from Chapter(s) 25 of \emph{BPS} 6th ed.
+#' Dataset biomassall from \emph{BPS} 6th edition (Chapter(s) 25).
 #'
 #' @name biomassall
 #' @docType data
@@ -1945,7 +1945,7 @@ NULL
 
 #' biomassmeans data
 #'
-#' Dataset biomassmeans from Chapter(s) 25 of \emph{BPS} 6th ed.
+#' Dataset biomassmeans from \emph{BPS} 6th edition (Chapter(s) 25).
 #'
 #' @name biomassmeans
 #' @docType data
@@ -1957,7 +1957,7 @@ NULL
 
 #' bluedye data
 #'
-#' Dataset bluedye from Chapter(s) 25, 26 of \emph{BPS} 6th ed.
+#' Dataset bluedye from \emph{BPS} 6th edition (Chapter(s) 25, 26).
 #'
 #' @name bluedye
 #' @docType data
@@ -1969,7 +1969,7 @@ NULL
 
 #' borneologging data
 #'
-#' Dataset borneologging from Chapter(s) 25 of \emph{BPS} 6th ed.
+#' Dataset borneologging from \emph{BPS} 6th edition (Chapter(s) 25).
 #'
 #' @name borneologging
 #' @docType data
@@ -1981,7 +1981,7 @@ NULL
 
 #' bromeliads data
 #'
-#' Dataset bromeliads from Chapter(s) 25, 29 of \emph{BPS} 6th ed.
+#' Dataset bromeliads from \emph{BPS} 6th edition (Chapter(s) 25, 29).
 #'
 #' @name bromeliads
 #' @docType data
@@ -1993,7 +1993,7 @@ NULL
 
 #' caffeine data
 #'
-#' Dataset caffeine from Chapter(s) 25 of \emph{BPS} 6th ed.
+#' Dataset caffeine from \emph{BPS} 6th edition (Chapter(s) 25).
 #'
 #' @name caffeine
 #' @docType data
@@ -2005,7 +2005,7 @@ NULL
 
 #' flowerlength data
 #'
-#' Dataset flowerlength from Chapter(s) 25, 29 of \emph{BPS} 6th ed.
+#' Dataset flowerlength from \emph{BPS} 6th edition (Chapter(s) 25, 29).
 #'
 #' @name flowerlength
 #' @docType data
@@ -2017,7 +2017,7 @@ NULL
 
 #' goodsmells data
 #'
-#' Dataset goodsmells from Chapter(s) 25, 26 of \emph{BPS} 6th ed.
+#' Dataset goodsmells from \emph{BPS} 6th edition (Chapter(s) 25, 26).
 #'
 #' @name goodsmells
 #' @docType data
@@ -2029,7 +2029,7 @@ NULL
 
 #' thinkmoney data
 #'
-#' Dataset thinkmoney from Chapter(s) 25 of \emph{BPS} 6th ed.
+#' Dataset thinkmoney from \emph{BPS} 6th edition (Chapter(s) 25).
 #'
 #' @name thinkmoney
 #' @docType data
@@ -2041,7 +2041,7 @@ NULL
 
 #' weakfabric data
 #'
-#' Dataset weakfabric from Chapter(s) 25 of \emph{BPS} 6th ed.
+#' Dataset weakfabric from \emph{BPS} 6th edition (Chapter(s) 25).
 #'
 #' @name weakfabric
 #' @docType data
@@ -2053,7 +2053,7 @@ NULL
 
 #' wrinklefabric data
 #'
-#' Dataset wrinklefabric from Chapter(s) 25 of \emph{BPS} 6th ed.
+#' Dataset wrinklefabric from \emph{BPS} 6th edition (Chapter(s) 25).
 #'
 #' @name wrinklefabric
 #' @docType data
@@ -2065,7 +2065,7 @@ NULL
 
 #' amazon data
 #'
-#' Dataset amazon from Chapter(s) 26 of \emph{BPS} 6th ed.
+#' Dataset amazon from \emph{BPS} 6th edition (Chapter(s) 26).
 #'
 #' @name amazon
 #' @docType data
@@ -2077,7 +2077,7 @@ NULL
 
 #' biomass2004 data
 #'
-#' Dataset biomass2004 from Chapter(s) 26 of \emph{BPS} 6th ed.
+#' Dataset biomass2004 from \emph{BPS} 6th edition (Chapter(s) 26).
 #'
 #' @name biomass2004
 #' @docType data
@@ -2089,7 +2089,7 @@ NULL
 
 #' cicada data
 #'
-#' Dataset cicada from Chapter(s) 26, 7 of \emph{BPS} 6th ed.
+#' Dataset cicada from \emph{BPS} 6th edition (Chapter(s) 26, 7).
 #'
 #' @name cicada
 #' @docType data
@@ -2101,7 +2101,7 @@ NULL
 
 #' fairsafety data
 #'
-#' Dataset fairsafety from Chapter(s) 26 of \emph{BPS} 6th ed.
+#' Dataset fairsafety from \emph{BPS} 6th edition (Large Data Sets).
 #'
 #' @name fairsafety
 #' @docType data
@@ -2113,7 +2113,7 @@ NULL
 
 #' foodsafety data
 #'
-#' Dataset foodsafety from Chapter(s) 26 of \emph{BPS} 6th ed.
+#' Dataset foodsafety from \emph{BPS} 6th edition (Large Data Sets).
 #'
 #' @name foodsafety
 #' @docType data
@@ -2125,7 +2125,7 @@ NULL
 
 #' golf data
 #'
-#' Dataset golf from Chapter(s) 26 of \emph{BPS} 6th ed.
+#' Dataset golf from \emph{BPS} 6th edition (Chapter(s) 26).
 #'
 #' @name golf
 #' @docType data
@@ -2137,7 +2137,7 @@ NULL
 
 #' logrichness data
 #'
-#' Dataset logrichness from Chapter(s) 26 of \emph{BPS} 6th ed.
+#' Dataset logrichness from \emph{BPS} 6th edition (Chapter(s) 26).
 #'
 #' @name logrichness
 #' @docType data
@@ -2149,7 +2149,7 @@ NULL
 
 #' nematodes data
 #'
-#' Dataset nematodes from Chapter(s) 26 of \emph{BPS} 6th ed.
+#' Dataset nematodes from \emph{BPS} 6th edition (Chapter(s) 26).
 #'
 #' @name nematodes
 #' @docType data
@@ -2161,7 +2161,7 @@ NULL
 
 #' polyester data
 #'
-#' Dataset polyester from Chapter(s) 26 of \emph{BPS} 6th ed.
+#' Dataset polyester from \emph{BPS} 6th edition (Chapter(s) 26).
 #'
 #' @name polyester
 #' @docType data
@@ -2173,7 +2173,7 @@ NULL
 
 #' stories data
 #'
-#' Dataset stories from Chapter(s) 26 of \emph{BPS} 6th ed.
+#' Dataset stories from \emph{BPS} 6th edition (Chapter(s) 26).
 #'
 #' @name stories
 #' @docType data
@@ -2185,7 +2185,7 @@ NULL
 
 #' story1 data
 #'
-#' Dataset story1 from Chapter(s) 26 of \emph{BPS} 6th ed.
+#' Dataset story1 from \emph{BPS} 6th edition (Chapter(s) 26).
 #'
 #' @name story1
 #' @docType data
@@ -2197,7 +2197,7 @@ NULL
 
 #' story2 data
 #'
-#' Dataset story2 from Chapter(s) 26 of \emph{BPS} 6th ed.
+#' Dataset story2 from \emph{BPS} 6th edition (Chapter(s) 26).
 #'
 #' @name story2
 #' @docType data
@@ -2209,7 +2209,7 @@ NULL
 
 #' weeds3 data
 #'
-#' Dataset weeds3 from Chapter(s) 26 of \emph{BPS} 6th ed.
+#' Dataset weeds3 from \emph{BPS} 6th edition (Chapter(s) 26).
 #'
 #' @name weeds3
 #' @docType data
@@ -2221,7 +2221,7 @@ NULL
 
 #' weeds9 data
 #'
-#' Dataset weeds9 from Chapter(s) 26 of \emph{BPS} 6th ed.
+#' Dataset weeds9 from \emph{BPS} 6th edition (Chapter(s) 26).
 #'
 #' @name weeds9
 #' @docType data
@@ -2233,7 +2233,7 @@ NULL
 
 #' weedsfull data
 #'
-#' Dataset weedsfull from Chapter(s) 26 of \emph{BPS} 6th ed.
+#' Dataset weedsfull from \emph{BPS} 6th edition (Chapter(s) 26).
 #'
 #' @name weedsfull
 #' @docType data
@@ -2245,7 +2245,7 @@ NULL
 
 #' absenteeism data
 #'
-#' Dataset absenteeism from Chapter(s) 27 of \emph{BPS} 6th ed.
+#' Dataset absenteeism from \emph{BPS} 6th edition (Chapter(s) 27).
 #'
 #' @name absenteeism
 #' @docType data
@@ -2257,7 +2257,7 @@ NULL
 
 #' absenteeism2 data
 #'
-#' Dataset absenteeism2 from Chapter(s) 27 of \emph{BPS} 6th ed.
+#' Dataset absenteeism2 from \emph{BPS} 6th edition (Chapter(s) 27).
 #'
 #' @name absenteeism2
 #' @docType data
@@ -2269,7 +2269,7 @@ NULL
 
 #' complaints data
 #'
-#' Dataset complaints from Chapter(s) 27 of \emph{BPS} 6th ed.
+#' Dataset complaints from \emph{BPS} 6th edition (Chapter(s) 27).
 #'
 #' @name complaints
 #' @docType data
@@ -2281,7 +2281,7 @@ NULL
 
 #' cutting data
 #'
-#' Dataset cutting from Chapter(s) 27 of \emph{BPS} 6th ed.
+#' Dataset cutting from \emph{BPS} 6th edition (Chapter(s) 27).
 #'
 #' @name cutting
 #' @docType data
@@ -2293,7 +2293,7 @@ NULL
 
 #' drg data
 #'
-#' Dataset drg from Chapter(s) 27 of \emph{BPS} 6th ed.
+#' Dataset drg from \emph{BPS} 6th edition (Chapter(s) 27).
 #'
 #' @name drg
 #' @docType data
@@ -2305,7 +2305,7 @@ NULL
 
 #' drg2 data
 #'
-#' Dataset drg2 from Chapter(s) 27 of \emph{BPS} 6th ed.
+#' Dataset drg2 from \emph{BPS} 6th edition (Chapter(s) 27).
 #'
 #' @name drg2
 #' @docType data
@@ -2317,7 +2317,7 @@ NULL
 
 #' hardness data
 #'
-#' Dataset hardness from Chapter(s) 27 of \emph{BPS} 6th ed.
+#' Dataset hardness from \emph{BPS} 6th edition (Chapter(s) 27).
 #'
 #' @name hardness
 #' @docType data
@@ -2329,7 +2329,7 @@ NULL
 
 #' hardness2 data
 #'
-#' Dataset hardness2 from Chapter(s) 27 of \emph{BPS} 6th ed.
+#' Dataset hardness2 from \emph{BPS} 6th edition (Chapter(s) 27).
 #'
 #' @name hardness2
 #' @docType data
@@ -2341,7 +2341,7 @@ NULL
 
 #' monitors data
 #'
-#' Dataset monitors from Chapter(s) 27 of \emph{BPS} 6th ed.
+#' Dataset monitors from \emph{BPS} 6th edition (Chapter(s) 27).
 #'
 #' @name monitors
 #' @docType data
@@ -2353,7 +2353,7 @@ NULL
 
 #' mountingholes data
 #'
-#' Dataset mountingholes from Chapter(s) 27 of \emph{BPS} 6th ed.
+#' Dataset mountingholes from \emph{BPS} 6th edition (Chapter(s) 27).
 #'
 #' @name mountingholes
 #' @docType data
@@ -2365,7 +2365,7 @@ NULL
 
 #' mountingholes2 data
 #'
-#' Dataset mountingholes2 from Chapter(s) 27 of \emph{BPS} 6th ed.
+#' Dataset mountingholes2 from \emph{BPS} 6th edition (Chapter(s) 27).
 #'
 #' @name mountingholes2
 #' @docType data
@@ -2377,7 +2377,7 @@ NULL
 
 #' operations data
 #'
-#' Dataset operations from Chapter(s) 27 of \emph{BPS} 6th ed.
+#' Dataset operations from \emph{BPS} 6th edition (Chapter(s) 27).
 #'
 #' @name operations
 #' @docType data
@@ -2389,7 +2389,7 @@ NULL
 
 #' paintproblems data
 #'
-#' Dataset paintproblems from Chapter(s) 27 of \emph{BPS} 6th ed.
+#' Dataset paintproblems from \emph{BPS} 6th edition (Chapter(s) 27).
 #'
 #' @name paintproblems
 #' @docType data
@@ -2401,7 +2401,7 @@ NULL
 
 #' responsetimes data
 #'
-#' Dataset responsetimes from Chapter(s) 27 of \emph{BPS} 6th ed.
+#' Dataset responsetimes from \emph{BPS} 6th edition (Chapter(s) 27).
 #'
 #' @name responsetimes
 #' @docType data
@@ -2413,7 +2413,7 @@ NULL
 
 #' responsetimes2 data
 #'
-#' Dataset responsetimes2 from Chapter(s) 27 of \emph{BPS} 6th ed.
+#' Dataset responsetimes2 from \emph{BPS} 6th edition (Chapter(s) 27).
 #'
 #' @name responsetimes2
 #' @docType data
@@ -2425,7 +2425,7 @@ NULL
 
 #' thickness data
 #'
-#' Dataset thickness from Chapter(s) 27 of \emph{BPS} 6th ed.
+#' Dataset thickness from \emph{BPS} 6th edition (Chapter(s) 27).
 #'
 #' @name thickness
 #' @docType data
@@ -2437,7 +2437,7 @@ NULL
 
 #' thickness2 data
 #'
-#' Dataset thickness2 from Chapter(s) 27 of \emph{BPS} 6th ed.
+#' Dataset thickness2 from \emph{BPS} 6th edition (Chapter(s) 27).
 #'
 #' @name thickness2
 #' @docType data
@@ -2449,7 +2449,7 @@ NULL
 
 #' viscosity data
 #'
-#' Dataset viscosity from Chapter(s) 27 of \emph{BPS} 6th ed.
+#' Dataset viscosity from \emph{BPS} 6th edition (Chapter(s) 27).
 #'
 #' @name viscosity
 #' @docType data
@@ -2461,7 +2461,7 @@ NULL
 
 #' achievement data
 #'
-#' Dataset achievement from Chapter(s) 28 of \emph{BPS} 6th ed.
+#' Dataset achievement from \emph{BPS} 6th edition (Chapter(s) 28).
 #'
 #' @name achievement
 #' @docType data
@@ -2473,7 +2473,7 @@ NULL
 
 #' bankwages data
 #'
-#' Dataset bankwages from Chapter(s) 28 of \emph{BPS} 6th ed.
+#' Dataset bankwages from \emph{BPS} 6th edition (Chapter(s) 28).
 #'
 #' @name bankwages
 #' @docType data
@@ -2485,7 +2485,7 @@ NULL
 
 #' bodymasslog data
 #'
-#' Dataset bodymasslog from Chapter(s) 28 of \emph{BPS} 6th ed.
+#' Dataset bodymasslog from \emph{BPS} 6th edition (Chapter(s) 28).
 #'
 #' @name bodymasslog
 #' @docType data
@@ -2497,7 +2497,7 @@ NULL
 
 #' catalog data
 #'
-#' Dataset catalog from Chapter(s) 28 of \emph{BPS} 6th ed.
+#' Dataset catalog from \emph{BPS} 6th edition (Chapter(s) 28).
 #'
 #' @name catalog
 #' @docType data
@@ -2509,7 +2509,7 @@ NULL
 
 #' clothing data
 #'
-#' Dataset clothing from Chapter(s) 28 of \emph{BPS} 6th ed.
+#' Dataset clothing from \emph{BPS} 6th edition (Chapter(s) 28).
 #'
 #' @name clothing
 #' @docType data
@@ -2521,7 +2521,7 @@ NULL
 
 #' clothing2 data
 #'
-#' Dataset clothing2 from Chapter(s) 28 of \emph{BPS} 6th ed.
+#' Dataset clothing2 from \emph{BPS} 6th edition (Chapter(s) 28).
 #'
 #' @name clothing2
 #' @docType data
@@ -2533,7 +2533,7 @@ NULL
 
 #' computergame data
 #'
-#' Dataset computergame from Chapter(s) 28, 5 of \emph{BPS} 6th ed.
+#' Dataset computergame from \emph{BPS} 6th edition (Chapter(s) 28, 5).
 #'
 #' @name computergame
 #' @docType data
@@ -2545,7 +2545,7 @@ NULL
 
 #' condos data
 #'
-#' Dataset condos from Chapter(s) 28 of \emph{BPS} 6th ed.
+#' Dataset condos from \emph{BPS} 6th edition (Chapter(s) 28).
 #'
 #' @name condos
 #' @docType data
@@ -2557,7 +2557,7 @@ NULL
 
 #' heating data
 #'
-#' Dataset heating from Chapter(s) 28 of \emph{BPS} 6th ed.
+#' Dataset heating from \emph{BPS} 6th edition (Chapter(s) 28).
 #'
 #' @name heating
 #' @docType data
@@ -2569,7 +2569,7 @@ NULL
 
 #' juryduty data
 #'
-#' Dataset juryduty from Chapter(s) 28 of \emph{BPS} 6th ed.
+#' Dataset juryduty from \emph{BPS} 6th edition (Chapter(s) 28).
 #'
 #' @name juryduty
 #' @docType data
@@ -2581,7 +2581,7 @@ NULL
 
 #' juryduty2 data
 #'
-#' Dataset juryduty2 from Chapter(s) 28 of \emph{BPS} 6th ed.
+#' Dataset juryduty2 from \emph{BPS} 6th edition (Chapter(s) 28).
 #'
 #' @name juryduty2
 #' @docType data
@@ -2593,7 +2593,7 @@ NULL
 
 #' metabolic2 data
 #'
-#' Dataset metabolic2 from Chapter(s) 28, 4, 5 of \emph{BPS} 6th ed.
+#' Dataset metabolic2 from \emph{BPS} 6th edition (Chapter(s) 28, 4, 5).
 #'
 #' @name metabolic2
 #' @docType data
@@ -2605,7 +2605,7 @@ NULL
 
 #' nestling data
 #'
-#' Dataset nestling from Chapter(s) 28 of \emph{BPS} 6th ed.
+#' Dataset nestling from \emph{BPS} 6th edition (Chapter(s) 28).
 #'
 #' @name nestling
 #' @docType data
@@ -2617,7 +2617,7 @@ NULL
 
 #' perch data
 #'
-#' Dataset perch from Chapter(s) 28 of \emph{BPS} 6th ed.
+#' Dataset perch from \emph{BPS} 6th edition (Chapter(s) 28).
 #'
 #' @name perch
 #' @docType data
@@ -2629,7 +2629,7 @@ NULL
 
 #' radioactivity data
 #'
-#' Dataset radioactivity from Chapter(s) 28 of \emph{BPS} 6th ed.
+#' Dataset radioactivity from \emph{BPS} 6th edition (Chapter(s) 28).
 #'
 #' @name radioactivity
 #' @docType data
@@ -2641,7 +2641,7 @@ NULL
 
 #' reading data
 #'
-#' Dataset reading from Chapter(s) 28 of \emph{BPS} 6th ed.
+#' Dataset reading from \emph{BPS} 6th edition (Large Data Sets).
 #'
 #' @name reading
 #' @docType data
@@ -2653,7 +2653,7 @@ NULL
 
 #' satscores data
 #'
-#' Dataset satscores from Chapter(s) 28 of \emph{BPS} 6th ed.
+#' Dataset satscores from \emph{BPS} 6th edition (Chapter(s) 28).
 #'
 #' @name satscores
 #' @docType data
@@ -2665,7 +2665,7 @@ NULL
 
 #' satscores2 data
 #'
-#' Dataset satscores2 from Chapter(s) 28 of \emph{BPS} 6th ed.
+#' Dataset satscores2 from \emph{BPS} 6th edition (Chapter(s) 28).
 #'
 #' @name satscores2
 #' @docType data
@@ -2677,7 +2677,7 @@ NULL
 
 #' seedlings data
 #'
-#' Dataset seedlings from Chapter(s) 28 of \emph{BPS} 6th ed.
+#' Dataset seedlings from \emph{BPS} 6th edition (Chapter(s) 28).
 #'
 #' @name seedlings
 #' @docType data
@@ -2689,7 +2689,7 @@ NULL
 
 #' temperatures data
 #'
-#' Dataset temperatures from Chapter(s) 28 of \emph{BPS} 6th ed.
+#' Dataset temperatures from \emph{BPS} 6th edition (Chapter(s) 28).
 #'
 #' @name temperatures
 #' @docType data
@@ -2701,7 +2701,7 @@ NULL
 
 #' treadmill data
 #'
-#' Dataset treadmill from Chapter(s) 28 of \emph{BPS} 6th ed.
+#' Dataset treadmill from \emph{BPS} 6th edition (Chapter(s) 28).
 #'
 #' @name treadmill
 #' @docType data
@@ -2713,7 +2713,7 @@ NULL
 
 #' treadmill2 data
 #'
-#' Dataset treadmill2 from Chapter(s) 28 of \emph{BPS} 6th ed.
+#' Dataset treadmill2 from \emph{BPS} 6th edition (Chapter(s) 28).
 #'
 #' @name treadmill2
 #' @docType data
@@ -2725,7 +2725,7 @@ NULL
 
 #' tuition data
 #'
-#' Dataset tuition from Chapter(s) 28 of \emph{BPS} 6th ed.
+#' Dataset tuition from \emph{BPS} 6th edition (Chapter(s) 28).
 #'
 #' @name tuition
 #' @docType data
@@ -2737,7 +2737,7 @@ NULL
 
 #' worldrecords data
 #'
-#' Dataset worldrecords from Chapter(s) 28 of \emph{BPS} 6th ed.
+#' Dataset worldrecords from \emph{BPS} 6th edition (Chapter(s) 28).
 #'
 #' @name worldrecords
 #' @docType data
@@ -2749,7 +2749,7 @@ NULL
 
 #' beetles data
 #'
-#' Dataset beetles from Chapter(s) 29 of \emph{BPS} 6th ed.
+#' Dataset beetles from \emph{BPS} 6th edition (Chapter(s) 29).
 #'
 #' @name beetles
 #' @docType data
@@ -2761,7 +2761,7 @@ NULL
 
 #' bricks data
 #'
-#' Dataset bricks from Chapter(s) 29 of \emph{BPS} 6th ed.
+#' Dataset bricks from \emph{BPS} 6th edition (Chapter(s) 29).
 #'
 #' @name bricks
 #' @docType data
@@ -2773,7 +2773,7 @@ NULL
 
 #' caterpillars data
 #'
-#' Dataset caterpillars from Chapter(s) 29 of \emph{BPS} 6th ed.
+#' Dataset caterpillars from \emph{BPS} 6th edition (Chapter(s) 29).
 #'
 #' @name caterpillars
 #' @docType data
@@ -2785,7 +2785,7 @@ NULL
 
 #' computerinstr data
 #'
-#' Dataset computerinstr from Chapter(s) 29 of \emph{BPS} 6th ed.
+#' Dataset computerinstr from \emph{BPS} 6th edition (Chapter(s) 29).
 #'
 #' @name computerinstr
 #' @docType data
@@ -2797,7 +2797,7 @@ NULL
 
 #' corn data
 #'
-#' Dataset corn from Chapter(s) 29 of \emph{BPS} 6th ed.
+#' Dataset corn from \emph{BPS} 6th edition (Chapter(s) 29).
 #'
 #' @name corn
 #' @docType data
@@ -2809,7 +2809,7 @@ NULL
 
 #' cornhybrids data
 #'
-#' Dataset cornhybrids from Chapter(s) 29 of \emph{BPS} 6th ed.
+#' Dataset cornhybrids from \emph{BPS} 6th edition (Chapter(s) 29).
 #'
 #' @name cornhybrids
 #' @docType data
@@ -2821,7 +2821,7 @@ NULL
 
 #' girlsrun data
 #'
-#' Dataset girlsrun from Chapter(s) 29 of \emph{BPS} 6th ed.
+#' Dataset girlsrun from \emph{BPS} 6th edition (Chapter(s) 29).
 #'
 #' @name girlsrun
 #' @docType data
@@ -2833,7 +2833,7 @@ NULL
 
 #' heartrate data
 #'
-#' Dataset heartrate from Chapter(s) 29 of \emph{BPS} 6th ed.
+#' Dataset heartrate from \emph{BPS} 6th edition (Chapter(s) 29).
 #'
 #' @name heartrate
 #' @docType data
@@ -2845,7 +2845,7 @@ NULL
 
 #' newtsheal data
 #'
-#' Dataset newtsheal from Chapter(s) 29 of \emph{BPS} 6th ed.
+#' Dataset newtsheal from \emph{BPS} 6th edition (Chapter(s) 29).
 #'
 #' @name newtsheal
 #' @docType data
@@ -2857,7 +2857,7 @@ NULL
 
 #' objectcounts data
 #'
-#' Dataset objectcounts from Chapter(s) 29 of \emph{BPS} 6th ed.
+#' Dataset objectcounts from \emph{BPS} 6th edition (Chapter(s) 29).
 #'
 #' @name objectcounts
 #' @docType data
@@ -2869,7 +2869,7 @@ NULL
 
 #' objecttimes data
 #'
-#' Dataset objecttimes from Chapter(s) 29 of \emph{BPS} 6th ed.
+#' Dataset objecttimes from \emph{BPS} 6th edition (Chapter(s) 29).
 #'
 #' @name objecttimes
 #' @docType data
@@ -2881,7 +2881,7 @@ NULL
 
 #' socialcounts data
 #'
-#' Dataset socialcounts from Chapter(s) 29 of \emph{BPS} 6th ed.
+#' Dataset socialcounts from \emph{BPS} 6th edition (Chapter(s) 29).
 #'
 #' @name socialcounts
 #' @docType data
@@ -2893,7 +2893,7 @@ NULL
 
 #' socialtimes data
 #'
-#' Dataset socialtimes from Chapter(s) 29 of \emph{BPS} 6th ed.
+#' Dataset socialtimes from \emph{BPS} 6th edition (Chapter(s) 29).
 #'
 #' @name socialtimes
 #' @docType data
@@ -2905,7 +2905,7 @@ NULL
 
 #' stresspets data
 #'
-#' Dataset stresspets from Chapter(s) 29 of \emph{BPS} 6th ed.
+#' Dataset stresspets from \emph{BPS} 6th edition (Chapter(s) 29).
 #'
 #' @name stresspets
 #' @docType data
@@ -2917,7 +2917,7 @@ NULL
 
 #' tomatoes data
 #'
-#' Dataset tomatoes from Chapter(s) 29 of \emph{BPS} 6th ed.
+#' Dataset tomatoes from \emph{BPS} 6th edition (Chapter(s) 29).
 #'
 #' @name tomatoes
 #' @docType data
@@ -2929,7 +2929,7 @@ NULL
 
 #' treespecies data
 #'
-#' Dataset treespecies from Chapter(s) 29 of \emph{BPS} 6th ed.
+#' Dataset treespecies from \emph{BPS} 6th edition (Chapter(s) 29).
 #'
 #' @name treespecies
 #' @docType data
@@ -2941,7 +2941,7 @@ NULL
 
 #' monsoons data
 #'
-#' Dataset monsoons from Chapter(s) 3 of \emph{BPS} 6th ed.
+#' Dataset monsoons from \emph{BPS} 6th edition (Chapter(s) 3).
 #'
 #' @name monsoons
 #' @docType data
@@ -2953,7 +2953,7 @@ NULL
 
 #' airlines data
 #'
-#' Dataset airlines from Chapter(s) 4, 5 of \emph{BPS} 6th ed.
+#' Dataset airlines from \emph{BPS} 6th edition (Chapter(s) 4, 5).
 #'
 #' @name airlines
 #' @docType data
@@ -2965,7 +2965,7 @@ NULL
 
 #' bushmeat data
 #'
-#' Dataset bushmeat from Chapter(s) 4, 7 of \emph{BPS} 6th ed.
+#' Dataset bushmeat from \emph{BPS} 6th edition (Chapter(s) 4, 7).
 #'
 #' @name bushmeat
 #' @docType data
@@ -2977,7 +2977,7 @@ NULL
 
 #' canaries data
 #'
-#' Dataset canaries from Chapter(s) 4, 5 of \emph{BPS} 6th ed.
+#' Dataset canaries from \emph{BPS} 6th edition (Chapter(s) 4, 5).
 #'
 #' @name canaries
 #' @docType data
@@ -2989,7 +2989,7 @@ NULL
 
 #' cancer data
 #'
-#' Dataset cancer from Chapter(s) 4 of \emph{BPS} 6th ed.
+#' Dataset cancer from \emph{BPS} 6th edition (Chapter(s) 4).
 #'
 #' @name cancer
 #' @docType data
@@ -3001,7 +3001,7 @@ NULL
 
 #' cancer2 data
 #'
-#' Dataset cancer2 from Chapter(s) 4 of \emph{BPS} 6th ed.
+#' Dataset cancer2 from \emph{BPS} 6th edition (Chapter(s) 4).
 #'
 #' @name cancer2
 #' @docType data
@@ -3013,7 +3013,7 @@ NULL
 
 #' ebola data
 #'
-#' Dataset ebola from Chapter(s) 4 of \emph{BPS} 6th ed.
+#' Dataset ebola from \emph{BPS} 6th edition (Chapter(s) 4).
 #'
 #' @name ebola
 #' @docType data
@@ -3025,7 +3025,7 @@ NULL
 
 #' happy data
 #'
-#' Dataset happy from Chapter(s) 4 of \emph{BPS} 6th ed.
+#' Dataset happy from \emph{BPS} 6th edition (Chapter(s) 4).
 #'
 #' @name happy
 #' @docType data
@@ -3037,7 +3037,7 @@ NULL
 
 #' kneeht data
 #'
-#' Dataset kneeht from Chapter(s) 4, 5 of \emph{BPS} 6th ed.
+#' Dataset kneeht from \emph{BPS} 6th edition (Chapter(s) 4, 5).
 #'
 #' @name kneeht
 #' @docType data
@@ -3049,7 +3049,7 @@ NULL
 
 #' kneeht2 data
 #'
-#' Dataset kneeht2 from Chapter(s) 4, 5 of \emph{BPS} 6th ed.
+#' Dataset kneeht2 from \emph{BPS} 6th edition (Chapter(s) 4, 5).
 #'
 #' @name kneeht2
 #' @docType data
@@ -3061,7 +3061,7 @@ NULL
 
 #' manatees data
 #'
-#' Dataset manatees from Chapter(s) 4, 5 of \emph{BPS} 6th ed.
+#' Dataset manatees from \emph{BPS} 6th edition (Chapter(s) 4, 5).
 #'
 #' @name manatees
 #' @docType data
@@ -3073,7 +3073,7 @@ NULL
 
 #' marathon data
 #'
-#' Dataset marathon from Chapter(s) 4, 5 of \emph{BPS} 6th ed.
+#' Dataset marathon from \emph{BPS} 6th edition (Chapter(s) 4, 5).
 #'
 #' @name marathon
 #' @docType data
@@ -3085,7 +3085,7 @@ NULL
 
 #' masters10 data
 #'
-#' Dataset masters10 from Chapter(s) 4 of \emph{BPS} 6th ed.
+#' Dataset masters10 from \emph{BPS} 6th edition (Chapter(s) 4).
 #'
 #' @name masters10
 #' @docType data
@@ -3097,7 +3097,7 @@ NULL
 
 #' mathsat data
 #'
-#' Dataset mathsat from Chapter(s) 4 of \emph{BPS} 6th ed.
+#' Dataset mathsat from \emph{BPS} 6th edition (Chapter(s) 4).
 #'
 #' @name mathsat
 #' @docType data
@@ -3109,7 +3109,7 @@ NULL
 
 #' metabolic data
 #'
-#' Dataset metabolic from Chapter(s) 4, 5 of \emph{BPS} 6th ed.
+#' Dataset metabolic from \emph{BPS} 6th edition (Chapter(s) 4, 5).
 #'
 #' @name metabolic
 #' @docType data
@@ -3121,7 +3121,7 @@ NULL
 
 #' metabolic3 data
 #'
-#' Dataset metabolic3 from Chapter(s) 4 of \emph{BPS} 6th ed.
+#' Dataset metabolic3 from \emph{BPS} 6th edition (Chapter(s) 4).
 #'
 #' @name metabolic3
 #' @docType data
@@ -3133,7 +3133,7 @@ NULL
 
 #' mpg data
 #'
-#' Dataset mpg from Chapter(s) 4 of \emph{BPS} 6th ed.
+#' Dataset mpg from \emph{BPS} 6th edition (Chapter(s) 4).
 #'
 #' @name mpg
 #' @docType data
@@ -3145,7 +3145,7 @@ NULL
 
 #' sparrowhawks data
 #'
-#' Dataset sparrowhawks from Chapter(s) 4, 5 of \emph{BPS} 6th ed.
+#' Dataset sparrowhawks from \emph{BPS} 6th edition (Chapter(s) 4, 5).
 #'
 #' @name sparrowhawks
 #' @docType data
@@ -3157,7 +3157,7 @@ NULL
 
 #' storms data
 #'
-#' Dataset storms from Chapter(s) 4 of \emph{BPS} 6th ed.
+#' Dataset storms from \emph{BPS} 6th edition (Chapter(s) 4).
 #'
 #' @name storms
 #' @docType data
@@ -3169,7 +3169,7 @@ NULL
 
 #' sunlight data
 #'
-#' Dataset sunlight from Chapter(s) 4 of \emph{BPS} 6th ed.
+#' Dataset sunlight from \emph{BPS} 6th edition (Chapter(s) 4).
 #'
 #' @name sunlight
 #' @docType data
@@ -3181,7 +3181,7 @@ NULL
 
 #' toucan data
 #'
-#' Dataset toucan from Chapter(s) 4, 5 of \emph{BPS} 6th ed.
+#' Dataset toucan from \emph{BPS} 6th edition (Chapter(s) 4, 5).
 #'
 #' @name toucan
 #' @docType data
@@ -3193,7 +3193,7 @@ NULL
 
 #' anscombea data
 #'
-#' Dataset anscombea from Chapter(s) 5 of \emph{BPS} 6th ed.
+#' Dataset anscombea from \emph{BPS} 6th edition (Chapter(s) 5).
 #'
 #' @name anscombea
 #' @docType data
@@ -3205,7 +3205,7 @@ NULL
 
 #' anscombeb data
 #'
-#' Dataset anscombeb from Chapter(s) 5 of \emph{BPS} 6th ed.
+#' Dataset anscombeb from \emph{BPS} 6th edition (Chapter(s) 5).
 #'
 #' @name anscombeb
 #' @docType data
@@ -3217,7 +3217,7 @@ NULL
 
 #' anscombec data
 #'
-#' Dataset anscombec from Chapter(s) 5 of \emph{BPS} 6th ed.
+#' Dataset anscombec from \emph{BPS} 6th edition (Chapter(s) 5).
 #'
 #' @name anscombec
 #' @docType data
@@ -3229,7 +3229,7 @@ NULL
 
 #' anscombed data
 #'
-#' Dataset anscombed from Chapter(s) 5 of \emph{BPS} 6th ed.
+#' Dataset anscombed from \emph{BPS} 6th edition (Chapter(s) 5).
 #'
 #' @name anscombed
 #' @docType data
@@ -3241,7 +3241,7 @@ NULL
 
 #' brosis data
 #'
-#' Dataset brosis from Chapter(s) 5 of \emph{BPS} 6th ed.
+#' Dataset brosis from \emph{BPS} 6th edition (Chapter(s) 5).
 #'
 #' @name brosis
 #' @docType data
@@ -3253,7 +3253,7 @@ NULL
 
 #' diabetes data
 #'
-#' Dataset diabetes from Chapter(s) 5 of \emph{BPS} 6th ed.
+#' Dataset diabetes from \emph{BPS} 6th edition (Chapter(s) 5).
 #'
 #' @name diabetes
 #' @docType data
@@ -3265,7 +3265,7 @@ NULL
 
 #' empathy data
 #'
-#' Dataset empathy from Chapter(s) 5 of \emph{BPS} 6th ed.
+#' Dataset empathy from \emph{BPS} 6th edition (Chapter(s) 5).
 #'
 #' @name empathy
 #' @docType data
@@ -3277,7 +3277,7 @@ NULL
 
 #' fastdrive2 data
 #'
-#' Dataset fastdrive2 from Chapter(s) 5 of \emph{BPS} 6th ed.
+#' Dataset fastdrive2 from \emph{BPS} 6th edition (Chapter(s) 5).
 #'
 #' @name fastdrive2
 #' @docType data
@@ -3289,7 +3289,7 @@ NULL
 
 #' nitrates data
 #'
-#' Dataset nitrates from Chapter(s) 5 of \emph{BPS} 6th ed.
+#' Dataset nitrates from \emph{BPS} 6th edition (Chapter(s) 5).
 #'
 #' @name nitrates
 #' @docType data
@@ -3301,7 +3301,7 @@ NULL
 
 #' antesting data
 #'
-#' Dataset antesting from Chapter(s) 6 of \emph{BPS} 6th ed.
+#' Dataset antesting from \emph{BPS} 6th edition (Chapter(s) 6).
 #'
 #' @name antesting
 #' @docType data
@@ -3313,7 +3313,7 @@ NULL
 
 #' basketball data
 #'
-#' Dataset basketball from Chapter(s) 6 of \emph{BPS} 6th ed.
+#' Dataset basketball from \emph{BPS} 6th edition (Chapter(s) 6).
 #'
 #' @name basketball
 #' @docType data
@@ -3325,7 +3325,7 @@ NULL
 
 #' cellphone data
 #'
-#' Dataset cellphone from Chapter(s) 6 of \emph{BPS} 6th ed.
+#' Dataset cellphone from \emph{BPS} 6th edition (Chapter(s) 6).
 #'
 #' @name cellphone
 #' @docType data
@@ -3337,7 +3337,7 @@ NULL
 
 #' degrees data
 #'
-#' Dataset degrees from Chapter(s) 6 of \emph{BPS} 6th ed.
+#' Dataset degrees from \emph{BPS} 6th edition (Chapter(s) 6).
 #'
 #' @name degrees
 #' @docType data
@@ -3349,7 +3349,7 @@ NULL
 
 #' discrim data
 #'
-#' Dataset discrim from Chapter(s) 6 of \emph{BPS} 6th ed.
+#' Dataset discrim from \emph{BPS} 6th edition (Chapter(s) 6).
 #'
 #' @name discrim
 #' @docType data
@@ -3361,7 +3361,7 @@ NULL
 
 #' getrich data
 #'
-#' Dataset getrich from Chapter(s) 6 of \emph{BPS} 6th ed.
+#' Dataset getrich from \emph{BPS} 6th edition (Chapter(s) 6).
 #'
 #' @name getrich
 #' @docType data
@@ -3373,7 +3373,7 @@ NULL
 
 #' jurypool data
 #'
-#' Dataset jurypool from Chapter(s) 6 of \emph{BPS} 6th ed.
+#' Dataset jurypool from \emph{BPS} 6th edition (Chapter(s) 6).
 #'
 #' @name jurypool
 #' @docType data
@@ -3385,7 +3385,7 @@ NULL
 
 #' maritalstat data
 #'
-#' Dataset maritalstat from Chapter(s) 6 of \emph{BPS} 6th ed.
+#' Dataset maritalstat from \emph{BPS} 6th edition (Chapter(s) 6).
 #'
 #' @name maritalstat
 #' @docType data
@@ -3397,7 +3397,7 @@ NULL
 
 #' undergradages data
 #'
-#' Dataset undergradages from Chapter(s) 6 of \emph{BPS} 6th ed.
+#' Dataset undergradages from \emph{BPS} 6th edition (Chapter(s) 6).
 #'
 #' @name undergradages
 #' @docType data
@@ -3409,7 +3409,7 @@ NULL
 
 #' aluminum data
 #'
-#' Dataset aluminum from Chapter(s) 7 of \emph{BPS} 6th ed.
+#' Dataset aluminum from \emph{BPS} 6th edition (Chapter(s) 7).
 #'
 #' @name aluminum
 #' @docType data
@@ -3421,7 +3421,7 @@ NULL
 
 #' anger data
 #'
-#' Dataset anger from Chapter(s) 7 of \emph{BPS} 6th ed.
+#' Dataset anger from \emph{BPS} 6th edition (Chapter(s) 7).
 #'
 #' @name anger
 #' @docType data
@@ -3433,7 +3433,7 @@ NULL
 
 #' gdp data
 #'
-#' Dataset gdp from Chapter(s) 7 of \emph{BPS} 6th ed.
+#' Dataset gdp from \emph{BPS} 6th edition (Chapter(s) 7).
 #'
 #' @name gdp
 #' @docType data
@@ -3445,7 +3445,7 @@ NULL
 
 #' introspection data
 #'
-#' Dataset introspection from Chapter(s) 7 of \emph{BPS} 6th ed.
+#' Dataset introspection from \emph{BPS} 6th edition (Chapter(s) 7).
 #'
 #' @name introspection
 #' @docType data
@@ -3457,7 +3457,7 @@ NULL
 
 #' mississippi data
 #'
-#' Dataset mississippi from Chapter(s) 7 of \emph{BPS} 6th ed.
+#' Dataset mississippi from \emph{BPS} 6th edition (Chapter(s) 7).
 #'
 #' @name mississippi
 #' @docType data
@@ -3469,7 +3469,7 @@ NULL
 
 #' monkeycalls data
 #'
-#' Dataset monkeycalls from Chapter(s) 7 of \emph{BPS} 6th ed.
+#' Dataset monkeycalls from \emph{BPS} 6th edition (Chapter(s) 7).
 #'
 #' @name monkeycalls
 #' @docType data
@@ -3481,7 +3481,7 @@ NULL
 
 #' mutualfunds data
 #'
-#' Dataset mutualfunds from Chapter(s) 7 of \emph{BPS} 6th ed.
+#' Dataset mutualfunds from \emph{BPS} 6th edition (Chapter(s) 7).
 #'
 #' @name mutualfunds
 #' @docType data
@@ -3493,7 +3493,7 @@ NULL
 
 #' prey data
 #'
-#' Dataset prey from Chapter(s) 7 of \emph{BPS} 6th ed.
+#' Dataset prey from \emph{BPS} 6th edition (Chapter(s) 7).
 #'
 #' @name prey
 #' @docType data
@@ -3505,7 +3505,7 @@ NULL
 
 #' schools data
 #'
-#' Dataset schools from Chapter(s) 7 of \emph{BPS} 6th ed.
+#' Dataset schools from \emph{BPS} 6th edition (Chapter(s) 7).
 #'
 #' @name schools
 #' @docType data
@@ -3517,7 +3517,7 @@ NULL
 
 #' serengeti data
 #'
-#' Dataset serengeti from Chapter(s) 7 of \emph{BPS} 6th ed.
+#' Dataset serengeti from \emph{BPS} 6th edition (Chapter(s) 7).
 #'
 #' @name serengeti
 #' @docType data
@@ -3529,7 +3529,7 @@ NULL
 
 #' shopping data
 #'
-#' Dataset shopping from Chapter(s) 7 of \emph{BPS} 6th ed.
+#' Dataset shopping from \emph{BPS} 6th edition (Chapter(s) 7).
 #'
 #' @name shopping
 #' @docType data
@@ -3541,7 +3541,7 @@ NULL
 
 #' smokers data
 #'
-#' Dataset smokers from Chapter(s) 7 of \emph{BPS} 6th ed.
+#' Dataset smokers from \emph{BPS} 6th edition (Chapter(s) 7).
 #'
 #' @name smokers
 #' @docType data
@@ -3553,7 +3553,7 @@ NULL
 
 #' soap data
 #'
-#' Dataset soap from Chapter(s) 7 of \emph{BPS} 6th ed.
+#' Dataset soap from \emph{BPS} 6th edition (Chapter(s) 7).
 #'
 #' @name soap
 #' @docType data
@@ -3565,12 +3565,132 @@ NULL
 
 #' thinfatmonkeys data
 #'
-#' Dataset thinfatmonkeys from Chapter(s) 7 of \emph{BPS} 6th ed.
+#' Dataset thinfatmonkeys from \emph{BPS} 6th edition (Chapter(s) 7).
 #'
 #' @name thinfatmonkeys
 #' @docType data
 #' @usage data("thinfatmonkeys")
 #' @format \Sexpr[results=rd]{bps6data:::doc_bps6_data("thinfatmonkeys") }
+#' @references Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.
+#' @source \url{ http://content.bfwpub.com/webroot_pubcontent/Content/BCS_5/BPS6e/Student/DataSets/PC_Text/PC_Text.zip }
+NULL
+
+#' bliss data
+#'
+#' Dataset bliss from \emph{BPS} 6th edition (Large Data Sets).
+#'
+#' @name bliss
+#' @docType data
+#' @usage data("bliss")
+#' @format \Sexpr[results=rd]{bps6data:::doc_bps6_data("bliss") }
+#' @references Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.
+#' @source \url{ http://content.bfwpub.com/webroot_pubcontent/Content/BCS_5/BPS6e/Student/DataSets/PC_Text/PC_Text.zip }
+NULL
+
+#' call data
+#'
+#' Dataset call from \emph{BPS} 6th edition (Large Data Sets).
+#'
+#' @name call
+#' @docType data
+#' @usage data("call")
+#' @format \Sexpr[results=rd]{bps6data:::doc_bps6_data("call") }
+#' @references Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.
+#' @source \url{ http://content.bfwpub.com/webroot_pubcontent/Content/BCS_5/BPS6e/Student/DataSets/PC_Text/PC_Text.zip }
+NULL
+
+#' class data
+#'
+#' Dataset class from \emph{BPS} 6th edition (Large Data Sets).
+#'
+#' @name class
+#' @docType data
+#' @usage data("class")
+#' @format \Sexpr[results=rd]{bps6data:::doc_bps6_data("class") }
+#' @references Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.
+#' @source \url{ http://content.bfwpub.com/webroot_pubcontent/Content/BCS_5/BPS6e/Student/DataSets/PC_Text/PC_Text.zip }
+NULL
+
+#' concept data
+#'
+#' Dataset concept from \emph{BPS} 6th edition (Large Data Sets).
+#'
+#' @name concept
+#' @docType data
+#' @usage data("concept")
+#' @format \Sexpr[results=rd]{bps6data:::doc_bps6_data("concept") }
+#' @references Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.
+#' @source \url{ http://content.bfwpub.com/webroot_pubcontent/Content/BCS_5/BPS6e/Student/DataSets/PC_Text/PC_Text.zip }
+NULL
+
+#' education data
+#'
+#' Dataset education from \emph{BPS} 6th edition (Large Data Sets).
+#'
+#' @name education
+#' @docType data
+#' @usage data("education")
+#' @format \Sexpr[results=rd]{bps6data:::doc_bps6_data("education") }
+#' @references Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.
+#' @source \url{ http://content.bfwpub.com/webroot_pubcontent/Content/BCS_5/BPS6e/Student/DataSets/PC_Text/PC_Text.zip }
+NULL
+
+#' floridavote data
+#'
+#' Dataset floridavote from \emph{BPS} 6th edition (Large Data Sets).
+#'
+#' @name floridavote
+#' @docType data
+#' @usage data("floridavote")
+#' @format \Sexpr[results=rd]{bps6data:::doc_bps6_data("floridavote") }
+#' @references Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.
+#' @source \url{ http://content.bfwpub.com/webroot_pubcontent/Content/BCS_5/BPS6e/Student/DataSets/PC_Text/PC_Text.zip }
+NULL
+
+#' income data
+#'
+#' Dataset income from \emph{BPS} 6th edition (Large Data Sets).
+#'
+#' @name income
+#' @docType data
+#' @usage data("income")
+#' @format \Sexpr[results=rd]{bps6data:::doc_bps6_data("income") }
+#' @references Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.
+#' @source \url{ http://content.bfwpub.com/webroot_pubcontent/Content/BCS_5/BPS6e/Student/DataSets/PC_Text/PC_Text.zip }
+NULL
+
+#' literacy data
+#'
+#' Dataset literacy from \emph{BPS} 6th edition (Large Data Sets).
+#'
+#' @name literacy
+#' @docType data
+#' @usage data("literacy")
+#' @format \Sexpr[results=rd]{bps6data:::doc_bps6_data("literacy") }
+#' @references Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.
+#' @source \url{ http://content.bfwpub.com/webroot_pubcontent/Content/BCS_5/BPS6e/Student/DataSets/PC_Text/PC_Text.zip }
+NULL
+
+#' newt data
+#'
+#' Dataset newt from \emph{BPS} 6th edition (Large Data Sets).
+#'
+#' @name newt
+#' @docType data
+#' @usage data("newt")
+#' @format \Sexpr[results=rd]{bps6data:::doc_bps6_data("newt") }
+#' @references Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.
+#' @source \url{ http://content.bfwpub.com/webroot_pubcontent/Content/BCS_5/BPS6e/Student/DataSets/PC_Text/PC_Text.zip }
+NULL
+
+#' verizon data
+#'
+#' Dataset verizon from \emph{BPS} 6th edition (Large Data Sets).
+#'
+#' @name verizon
+#' @docType data
+#' @usage data("verizon")
+#' @format \Sexpr[results=rd]{bps6data:::doc_bps6_data("verizon") }
 #' @references Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.
 #' @source \url{ http://content.bfwpub.com/webroot_pubcontent/Content/BCS_5/BPS6e/Student/DataSets/PC_Text/PC_Text.zip }
 NULL

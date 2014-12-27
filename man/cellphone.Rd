@@ -12,7 +12,7 @@
 data("cellphone")
 }
 \description{
-Dataset cellphone from Chapter(s) 6 of \emph{BPS} 6th ed.
+Dataset cellphone from \emph{BPS} 6th edition (Chapter(s) 6).
 }
 \references{
 Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.

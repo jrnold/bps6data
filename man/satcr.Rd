@@ -12,7 +12,7 @@
 data("satcr")
 }
 \description{
-Dataset satcr from Chapter(s) 2, 3 of \emph{BPS} 6th ed.
+Dataset satcr from \emph{BPS} 6th edition (Large Data Sets).
 }
 \references{
 Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.

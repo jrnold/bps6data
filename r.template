@@ -2,7 +2,7 @@
 {{#datasets}}
 #' {{{name}}} data
 #'
-#' Dataset {{{name}}} from Chapter(s) {{{value}}} of \emph{BPS} 6th ed.
+#' Dataset {{{name}}} from \emph{BPS} 6th edition ({{{value}}}).
 #'
 #' @name {{{name}}}
 #' @docType data

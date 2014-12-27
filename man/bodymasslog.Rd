@@ -12,7 +12,7 @@
 data("bodymasslog")
 }
 \description{
-Dataset bodymasslog from Chapter(s) 28 of \emph{BPS} 6th ed.
+Dataset bodymasslog from \emph{BPS} 6th edition (Chapter(s) 28).
 }
 \references{
 Moore, David S., William I. Notz, and Michael A. Fligner. 2011. \emph{The Basic Practice of Statistics}: 6th edition. New York: W. H. Freeman.
